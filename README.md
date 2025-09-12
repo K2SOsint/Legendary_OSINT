@@ -1,10 +1,8 @@
 # 🛰 Legendary OSINT
 
-A curated list of **OSINT** tools & resources.  
-Sources include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections.  
+A curated list of **OSINT** tools & resources. The sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections.  
 Most tools are third-party — always vet and use responsibly.  
-
-Inspired by [Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto).  
+ 
 
 ---
 
@@ -27,6 +25,8 @@ Inspired by [Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto).
 - [🤖 Automation & Recon Frameworks](#-automation--recon-frameworks)
 - [📡 Intelligence Feeds](#-intelligence-feeds)
 - [🧑‍🤝‍🧑 OSINT for Good (NGOs & Initiatives)](#-osint-for-good-ngos--initiatives)
+- [🧠 AI & OSINT Assistance](#-ai--osint-assistance)    
+- [📝 Reporting & Visualization](#-reporting--visualization)  
 - [📚 Learning Resources](#-learning-resources)
 - [⚖️ License](#️-license)
 
@@ -641,7 +641,32 @@ Inspired by [Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto).
 - [Humanity Road](https://www.humanityroad.org/) — Crisis response and disaster mapping  
 - [CrisisMapping Network](http://crisismapping.ning.com/) — Community for humanitarian crisis mapping  
 - [InformNapalm](https://informnapalm.org/en/) — Volunteer intelligence about conflicts and disinformation  
-- [Locate International](https://locate.international/) — Cold case review and investigation through OSINT  
+- [Locate International](https://locate.international/) — Cold case review and investigation through OSINT
+
+## 🧠 AI & OSINT Assistance
+
+### AI Search and Analysis
+- [Perplexity](https://www.perplexity.ai/) — AI-powered search engine with cited sources  
+- [Andi Search](https://andisearch.com/) — Conversational search engine with AI answers  
+- [Phind](https://www.phind.com/) — AI search engine specialized in technical topics  
+
+### AI for Media and Verification
+- [Sensity AI](https://sensity.ai/) — Detect deepfakes and manipulated visual media  
+- [Hugging Face Spaces](https://huggingface.co/spaces) — Community-driven AI models for NLP, vision, and OSINT tasks  
+
+## 📝 Reporting & Visualization
+
+### Investigation Case Management
+- [Hunchly](https://www.hunch.ly/) — Web capture and investigation case management for OSINT  
+- [CaseFile (Paterva)](https://www.paterva.com/web7/buy/maltego-clients/casefile.php) — Link analysis and case organization tool  
+- [Aleph (OCCRP)](https://data.occrp.org/) — Investigative data and case management platform  
+
+### Network and Relationship Mapping
+- [Gephi](https://gephi.org/) — Open-source visualization for graphs and networks  
+- [Kumu](https://kumu.io/) — Relationship mapping and dynamic visualization platform  
+- [IBM i2 Analyst’s Notebook](https://www.ibm.com/products/i2-analyze) — Commercial link and intelligence analysis  
+- [Palantir Gotham](https://www.palantir.com/gotham/) — Enterprise platform for investigations and intelligence (commercial)  
+
 
 ## 📚 Learning Resources
 
