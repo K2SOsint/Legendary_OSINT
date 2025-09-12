@@ -72,7 +72,6 @@ Most tools are third-party — always vet and use responsibly.
 ---
 
 ### LinkedIn
-- [LinkedInt](https://github.com/vysecurity/LinkedInt) — Gather employees from LinkedIn  
 - [RocketReach](https://rocketreach.co/) — Email/profile enrichment (freemium)  
 - [SignalHire](https://www.signalhire.com/) — LinkedIn email extraction (freemium)  
 - [Hunter.io](https://hunter.io/) — Corporate email discovery  
