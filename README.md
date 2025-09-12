@@ -7,29 +7,7 @@ Most tools are third-party — always vet and use responsibly.
 ---
 
 ## 📖 Table of Contents
-- [👤 People Search & Social Media](#-people-search--social-media)
-- [✈️ Aviation Movements & Flight Tracking](#️-aviation-movements--flight-tracking)
-- [🌍 Domains, IPs & Infrastructure](#-domains-ips--infrastructure)
-- [🎣 Phishing & Email Investigation](#-phishing--email-investigation)
-- [🦠 Malware Analysis & CTI](#-malware-analysis--cti)
-- [🕳 Dark Web & Leaks](#-dark-web--leaks)
-- [🔍 Search Engines](#-search-engines)
-- [📑 Document & File Search](#-document--file-search)
-- [🗄 Website Archiving & Caching](#-website-archiving--caching)
-- [🛰 Geospatial & Mapping OSINT](#-geospatial--mapping-osint)
-- [📰 News & Media Monitoring](#-news--media-monitoring)
-- [📷 Image & Reverse Search](#-image--reverse-search)
-- [🎥 Video OSINT](#-video-osint)
-- [💼 Business & Company Intelligence](#-business--company-intelligence)
-- [⚖️ Government & Legal Records](#-government--legal-records)
-- [📚 Academic & Research Databases](#-academic--research-databases)
-- [🤖 Automation & Recon Frameworks](#-automation--recon-frameworks)
-- [📡 Intelligence Feeds](#-intelligence-feeds)
-- [🧑‍🤝‍🧑 OSINT for Good (NGOs & Initiatives)](#-osint-for-good-ngos--initiatives)
-- [🧠 AI & OSINT Assistance](#-ai--osint-assistance)    
-- [📝 Reporting & Visualization](#-reporting--visualization)  
-- [📚 Learning Resources](#-learning-resources)
-- [⚖️ License](#️-license)
+[👤 People Search & Social Media](#-people-search--social-media) · [✈️ Aviation Movements & Flight Tracking](#️-aviation-movements--flight-tracking) · [🌍 Domains, IPs & Infrastructure](#-domains-ips--infrastructure) · [🎣 Phishing & Email Investigation](#-phishing--email-investigation) · [🦠 Malware Analysis & CTI](#-malware-analysis--cti) · [🕳 Dark Web & Leaks](#-dark-web--leaks) · [🔍 Search Engines](#-search-engines) · [📑 Document & File Search](#-document--file-search) · [🗄 Website Archiving & Caching](#-website-archiving--caching) · [🛰 Geospatial & Mapping OSINT](#-geospatial--mapping-osint) · [📰 News & Media Monitoring](#-news--media-monitoring) · [📷 Image & Reverse Search](#-image--reverse-search) · [🎥 Video OSINT](#-video-osint) · [💼 Business & Company Intelligence](#-business--company-intelligence) · [⚖️ Government & Legal Records](#-government--legal-records) · [📚 Academic & Research Databases](#-academic--research-databases) · [🤖 Automation & Recon Frameworks](#-automation--recon-frameworks) · [📡 Intelligence Feeds](#-intelligence-feeds) · [🧑‍🤝‍🧑 OSINT for Good (NGOs & Initiatives)](#-osint-for-good-ngos--initiatives) · [🧠 AI & OSINT Assistance](#-ai--osint-assistance) · [📝 Reporting & Visualization](#-reporting--visualization) · [📚 Learning Resources](#-learning-resources) · [⚖️ License](#️-license)
 
 ## 👤 People Search & Social Media
 
