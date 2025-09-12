@@ -323,7 +323,6 @@ Most tools are third-party — always vet and use responsibly.
 - [Archive.org](https://archive.org) — Historical archiving (sometimes mirrors darknet material)  
 - [Google CSE Utopia](https://start.me/p/EL84Km/cse-utopia) — Custom Google engines for onion search  
 
----
 
 ## 🔍 Search Engines
 
