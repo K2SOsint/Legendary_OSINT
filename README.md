@@ -1,7 +1,6 @@
 # 🛰 Legendary OSINT
 
-A curated list of **OSINT** tools & resources. The sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections.  
-Most tools are third-party — always vet and use responsibly.  
+A curated list of **OSINT** tools & resources. The sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections. Most tools are third-party — always vet and use responsibly.  
  
 
 ---
