@@ -14,6 +14,7 @@ Most tools are third-party — always vet and use responsibly.
 - [🦠 Malware Analysis & CTI](#-malware-analysis--cti)
 - [🕳 Dark Web & Leaks](#-dark-web--leaks)
 - [🔍 Search Engines](#-search-engines)
+- [📑 Document & File Search](#-document--file-search)
 - [🗄 Website Archiving & Caching](#-website-archiving--caching)
 - [🛰 Geospatial & Mapping OSINT](#-geospatial--mapping-osint)
 - [📰 News & Media Monitoring](#-news--media-monitoring)
@@ -137,6 +138,12 @@ Most tools are third-party — always vet and use responsibly.
 - [Gab Trends](https://trends.gab.com/) — Gab content tracker  
 - [Clubhouse Tools](https://clubsearch.io/) — Clubhouse room & club search (limited)
 
+### Social Media Monitoring & Analytics
+- [Hootsuite](https://hootsuite.com/) — Social media management and monitoring platform  
+- [Buffer](https://buffer.com/) — Scheduling and monitoring of social media activity  
+- [Brandwatch](https://www.brandwatch.com/) — Social listening and analytics platform  
+- [Audiense](https://audiense.com/) — Audience segmentation and Twitter analytics  
+
 ## ✈️ Aviation Movements & Flight Tracking
 
 ### Live Tracking
@@ -237,6 +244,10 @@ Most tools are third-party — always vet and use responsibly.
 - [ThreatMiner](https://www.threatminer.org/) — IOC and malware sample data mining  
 - [ThreatCrowd](https://threatcrowd.org/) — Investigate domains, IPs, and emails via visual graphs
 
+### Website Relationship & Similarity
+- [SimilarSites](https://www.similarsites.com/) — Find websites similar to a given domain  
+- [SitesLike](https://www.siteslike.com/) — Discover alternative sites and competitors  
+
 ## 🦠 Malware Analysis & CTI
 
 ### Multi-engine Scanners
@@ -272,7 +283,12 @@ Most tools are third-party — always vet and use responsibly.
 ### Malware Analysis Toolkits
 - [REMnux](https://remnux.org/) — Linux distro for reverse engineering and malware analysis  
 - [Flare VM](https://github.com/mandiant/flare-vm) — Windows malware analysis toolkit  
-- [Karton](https://github.com/CERT-Polska/karton) — Malware analysis orchestration framework  
+- [Karton](https://github.com/CERT-Polska/karton) — Malware analysis orchestration framework
+
+### Threat Actor & Intel Resources
+- [APTWiki](https://github.com/kbandla/APTnotes) — Collection of public reports on APT campaigns  
+- [Dark Web Informer](https://darkweblinks.co/dark-web-informer/) — News and monitoring of darknet activity  
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) — Free encyclopedia on malware and threat actors  
   
 ## 🕳 Dark Web & Leaks
 
@@ -307,6 +323,7 @@ Most tools are third-party — always vet and use responsibly.
 - [Archive.org](https://archive.org) — Historical archiving (sometimes mirrors darknet material)  
 - [Google CSE Utopia](https://start.me/p/EL84Km/cse-utopia) — Custom Google engines for onion search  
 
+---
 
 ## 🔍 Search Engines
 
@@ -324,7 +341,16 @@ Most tools are third-party — always vet and use responsibly.
 - [Mojeek](https://www.mojeek.com) — Independent UK crawler-based search  
 - [MetaGer](https://metager.org/) — German metasearch engine with anonymization  
 - [Ecosia](https://www.ecosia.org) — Eco-friendly search engine that funds tree planting  
-- [Marginalia](https://marginalia-search.com/) — Alternative search engine for the “small web”  
+- [Marginalia](https://marginalia-search.com/) — Alternative search engine for the “small web”
+- [Ask.com](https://www.ask.com/) — General purpose search engine  
+- [Lycos](http://www.lycos.com/) — Legacy search and portal site  
+- [Search.com](https://www.search.com/) — Meta search across engines  
+- [All-in-One Search](http://all-in-one-search.com/) — Multi-engine meta search  
+- [AllTheInternet](http://www.alltheinternet.com/) — Web and multimedia search  
+- [Etools](http://www.etools.ch/) — Swiss metasearch engine  
+- [FaganFinder](http://www.faganfinder.com/) — Advanced metasearch utilities  
+- [iZito](http://www.izito.com/) — European metasearch engine  
+- [MyAllSearch](http://www.myallsearch.com/) — Multi-source meta search    
 
 ### Academic and Research Search
 - [Google Scholar](https://scholar.google.com.au/) — Search scholarly literature and academic papers  
@@ -363,7 +389,27 @@ Most tools are third-party — always vet and use responsibly.
 - [FOFA](https://fofa.so) — Internet-wide search engine  
 - [ZoomEye](https://www.zoomeye.org) — IoT and cyberspace search  
 - [Thingful](https://www.thingful.net) — Search engine for IoT devices  
-- [LeakIX](https://leakix.net) — Search exposed services and databases  
+- [LeakIX](https://leakix.net) — Search exposed services and databases
+- [Netlas.io](https://netlas.io/) — Internet-wide search and analytics  
+- [Million Short](https://millionshort.com/) — Search engine that omits top sites for discovery  
+- [IsLegitSite](https://www.islegitsite.com/) — Check if a website is legit or scam
+
+## 📑 Document & File Search
+
+### Document & Slide Search
+- [Find-pdf-doc](http://www.findpdfdoc.com/) — Search engine for PDF and DOC files  
+- [SlideShare](https://www.slideshare.net/) — Slides and presentations search  
+- [Scribd](https://www.scribd.com/) — Books, documents, and academic resources  
+
+### File & Open Directory Search
+- [Eyedex](http://eyedex.org/) — Open directory file search  
+- [FilePursuit](https://filepursuit.com/) — File and open directory search engine  
+- [Filesec.io](https://filesec.io/) — File and directory search focused on infosec content  
+
+### Paste & Text Storage
+- [0bin](https://0bin.net/) — Encrypted pastebin  
+- [Cryptobin](https://cryptobin.co/) — Secure encrypted paste service  
+- [Defuse](https://defuse.ca/pastebin.htm) — Pastebin with encryption options  
 
 ## 🗄 Website Archiving & Caching
 
