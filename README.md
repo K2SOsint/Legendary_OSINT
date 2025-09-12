@@ -53,9 +53,11 @@ Inspired by [Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto).
 - [TweetBeaver](https://tweetbeaver.com/) — Lookup tools for profiles, likes, followers  
 - [Foller.me](https://foller.me/) — Analyze Twitter account topics & activity  
 - [BirdHunt](https://birdhunt.co/) — Historical tweet search  
-- [Sleeping Time](http://sleepingtime.org/) — Estimate a user’s activity/sleeping patterns  
-- [Twitonomy](https://www.twitonomy.com/) — Visual analytics on Twitter accounts  
-- [Social Bearing](https://socialbearing.com/) — Analyze tweets, hashtags, accounts  
+- [Twitonomy](https://www.twitonomy.com/) — Analytics on tweets, mentions, followers, lists  
+- [Bot Sentinel](https://botsentinel.com/) — Detect and analyze bot-like or inauthentic accounts  
+- [Wayback Tweets](https://waybacktweets.streamlit.app/) — Retrieve deleted or archived tweets  
+- [Nitter](https://nitter.net/) — Alternative Twitter front-end, useful for OSINT scraping  
+  
 
 ---
 
@@ -347,7 +349,9 @@ Inspired by [Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto).
 - [osint.sh](https://osint.sh/buckets) — Search exposed cloud buckets  
 - [GrayHatWarfare](https://buckets.grayhatwarfare.com) — Public S3 bucket search  
 - [I Search From](http://isearchfrom.com) — Google search simulator for location/device  
-- [MAC.lc](https://mac.lc) — MAC address lookup  
+- [MAC.lc](https://mac.lc) — MAC address lookup
+- [Marginalia](https://marginalia-search.com/) — Alternative search engine focusing on smaller sites  
+- [Media Search Tool](https://www.no-nonsense-intel.com/adverse-media-search-tool) — Adverse media OSINT search tool  
 - [Shodan](https://www.shodan.io) — Search for internet-connected devices  
 - [Censys](https://censys.io) — Search infrastructure and SSL certificates  
 - [FOFA](https://fofa.so) — Internet-wide search engine  
