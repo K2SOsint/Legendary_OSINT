@@ -108,6 +108,14 @@ A curated list of **OSINT** tools & resources. The sources where I got this from
 
 ---
 
+### GitHub
+- [React GitHub Notetaker](https://githubnotes-47071.firebaseapp.com/) — GitHub Username Search 
+- [GitHub Username Search Engine](https://jonnygovish.github.io/Github-username-search-engine/) — Does what the name says 
+- [GitHub Tending RSS](https://mshibanami.github.io/GitHubTrendingRSS/) — RSS feed trending topics  
+- [GitHub Dorking List](https://github.com/techgaun/github-dorks) — List of useful GitHub dorks  
+
+---
+
 ### Other Platforms
 - [Flickr API](https://www.flickr.com/services/api/) — Photo metadata  
 - [VK OSINT](https://vk.watch/) — Russian social network search  
