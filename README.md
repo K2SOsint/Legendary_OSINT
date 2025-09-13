@@ -446,7 +446,8 @@ A curated list of **OSINT** tools & resources. The sources where I got this from
 - [In-The-Sky](https://in-the-sky.org/satmap_worldmap.php) — Interactive satellite maps  
 
 ### Geospatial Analysis Tools
-- [SunCalc](https://suncalc.org/) — Calculate sun position and shadows for a given time  
+- [SunCalc](https://suncalc.org/) — Calculate sun position and shadows for a given time
+- [Shademap](https://shademap.app/) - Shows shadows at different times of day around the globe  
 - [PeakFinder](https://www.peakfinder.org/) — Identify mountains and terrain from coordinates  
 - [GeoNames](https://www.geonames.org/) — Geographical names database  
 - [QGIS](https://qgis.org/) — Open-source desktop GIS application  
