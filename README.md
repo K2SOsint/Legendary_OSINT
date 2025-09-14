@@ -74,6 +74,12 @@ A curated list of **OSINT** tools & resources. The sources where I got this from
 
 ---
 
+### Snapchat
+- [SnapChat Political Ads Database](https://www.snap.com/political-ads) - Political Ads Database starting from 2018
+- [SnapChat Explore](https://snapchat.com/explore/) - Use search bar to search for usernames, tags f.e.
+- [Snaplytics](https://snaplytics.io/) - Several tools to download profile pictures, stories and videos.
+- 
+
 ### YouTube
 - [YTCommentSearch](https://polsy.org.uk/stuff/ytrestrict.cgi) — Search video comments  
 - [Noxinfluencer](https://www.noxinfluencer.com/) — YouTube channel analytics  
