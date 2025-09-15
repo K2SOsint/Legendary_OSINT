@@ -216,7 +216,8 @@ A curated list of **OSINT** tools & resources. The sources where I got this from
 - [Have I Been Pwned](https://haveibeenpwned.com/) — Search if an email appears in known data breaches  
 - [DeHashed](https://dehashed.com/) — Breach and credential search  
 - [EmailRep.io](https://emailrep.io/) — Email reputation and risk scoring  
-- [Hunter.io](https://hunter.io/) — Discover corporate email patterns and addresses  
+- [Hunter.io](https://hunter.io/) — Discover corporate email patterns and addresses
+- [Epieos](https://epieos.com) - Connecting e-mail addresses, and phone numbers, to online accounts
 
 ### Email Analysis
 - [MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx) — Email header analyzer and MX tools  
