@@ -70,31 +70,40 @@ A curated list of **OSINT** tools & resources. The sources where I got this from
 - [Pushshift Reddit Search](https://redditsearch.io/) — Historical Reddit data  
 - [Reddit Insight](https://redditinsight.com/) — Analyze profiles & posting activity  
 - [ReSavr](https://www.resavr.com/) — Recover deleted comments  
-- [Camas Reddit Investigator](https://camas.github.io/reddit-search/) — Search Reddit posts & comments  
+- [Camas Reddit Investigator](https://camas.github.io/reddit-search/) — Search Reddit posts & comments
+- [Redective](https://redective.com/) - The Reddit Search Detective  
 
 ---
 
 ### Snapchat
 - [SnapChat Political Ads Database](https://www.snap.com/political-ads) - Political Ads Database starting from 2018
 - [SnapChat Explore](https://snapchat.com/explore/) - Use search bar to search for usernames, tags f.e.
-- [Snaplytics](https://snaplytics.io/) - Several tools to download profile pictures, stories and videos.
+- [Snaplytics](https://snaplytics.io/) - Several tools to download profile pictures, stories and videos
 - 
 
 ### YouTube
 - [YTCommentSearch](https://polsy.org.uk/stuff/ytrestrict.cgi) — Search video comments  
 - [Noxinfluencer](https://www.noxinfluencer.com/) — YouTube channel analytics  
 - [Channel Crawler](https://channelcrawler.com/) — Find channels by keyword/topic  
-- [Social Blade](https://socialblade.com/) — Stats on YouTube/Twitch/Twitter accounts  
+- [Social Blade](https://socialblade.com/) — Stats on YouTube/Twitch/Twitter accounts
+- [YouTube Metadata](https://mattw.io/youtube-metadata/) - Grabs details about a video/uploader/playlist/creator/channel
+- [YoutTube Geolocation](https://mattw.io/youtube-geofind/location) - Find videos based on geolocation
 
 ---
 
 ### Telegram
 - [Telegago](https://github.com/Telegago/Telegago) — Group/channel OSINT  
-- [TgScan](https://tgscan.xyz/) — Search public groups/channels  
-- [Telepathy](https://github.com/tejado/telegram-osint) — Extract account info via API  
+- [TgScan](https://tgscan.xyz/) — Search public groups/channels
+- [TGDB](https://www.tgdb.org/) - Searchable Telegram database service
+- [Telemetr.io](https://telemetr.io/) - Telegram analytics suite
+- [IntelX - Telegram](https://intelx.io/tools?tab=telegram) - IntelX Telegram Search  
+- [Telepathy](https://github.com/jordanwildon/Telepathy) — Extract account info via API  
 - [FindThatGroup](https://findthatgroup.com/) — Public group/channel directory  
 - [Combot](https://combot.org/telegram/top/groups) — Top Telegram groups/channels  
-- [TLGrip](https://github.com/Ph055a/TLGrip) — Telegram scraper for groups/chats  
+- [TLGrip](https://github.com/Ph055a/TLGrip) — Telegram scraper for groups/chats
+- [Telegram Channels](https://tlgrm.eu/channels) - Search Telegram Channels
+- [Telemetry](https://www.telemetryapp.io/) - Telegram analytics tool
+- [Tgstat](https://tgstat.com/) - Russian-based Telegram analytics tool
 
 ---
 
