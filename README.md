@@ -131,9 +131,27 @@ A curated list of **OSINT** tools & resources. The sources where I got this from
 
 ---
 
+### VKontakte (VK) OSINT
+- [VK Watch](https://vk.watch) — Search for profiles, posts, videos, and groups
+- [Bellingcat VK Scraper](https://github.com/bellingcat/vk-scraper) — Python tool to scrape profiles, photos, and groups
+- [VK ID Lookup](https://regvk.com/id/) — Find a VK profile by numeric ID or slug
+- [vk_api (Python)](https://github.com/python273/vk_api) — Unofficial Python library for VK API access
+- [vk-grabber](https://github.com/sashgorokhov/vk-grabber) — Bulk scraping of VK photos and posts
+- [Wayback Machine](https://web.archive.org/web/*/vk.com/*) — View archived/removed VK content
+- [OSINTCombine VK Guide](https://www.osintcombine.com/post/vk-osint) — Practical guide for VK investigations
+- [Search4Faces](https://search4faces.com) — Reverse face search across VKontakte
+- [VK History Robot](https://t.me/VKHistoryRobot) — Telegram bot to view VK profile history changes
+- [FindNameVk Bot](https://t.me/FindNameVk_bot) — Telegram bot to search for VK profiles by name
+- [Дезертир](https://t.me/deserteer) — Telegram tool for VK-related OSINT (Russian)
+- [Barkov.net](https://barkov.net/) — VK user and community search engine
+- [VK5](https://vk5.city/) — VK search engine and analytics tool
+- [VK Community Search](https://vk.com/communities) — Discover VK groups and communities
+- [VK People Search](https://vk.com/people) — Find VK users by various filters
+
+---
+
 ### Other Platforms
-- [Flickr API](https://www.flickr.com/services/api/) — Photo metadata  
-- [VK OSINT](https://vk.watch/) — Russian social network search  
+- [Flickr API](https://www.flickr.com/services/api/) — Photo metadata    
 - [Mastodon Instances](https://instances.social/) — Fediverse OSINT  
 - [Gab Trends](https://trends.gab.com/) — Gab content tracker  
 - [Clubhouse Tools](https://clubsearch.io/) — Clubhouse room & club search (limited)
