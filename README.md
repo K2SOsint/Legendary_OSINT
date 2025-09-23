@@ -204,7 +204,7 @@ A curated list of **OSINT** tools & resources. The sources where I got this from
 - [DomainIQ](https://www.domainiq.com/) — Domain intelligence and history  
 - [Completedns](https://completedns.com/dns-history/) — DNS history database  
 - [WhoisRequest](http://whoisrequest.com/history/) — Domain ownership history lookup  
-- [DomainBigData](http://domainbigdata.com) — Domain ownership and historical data  
+- [Whoxy](https://whoxy.com) — Domain ownership and historical data  
 - [SecurityTrails](https://securitytrails.com/) — DNS and infrastructure data  
 - [Robtex](http://robtex.com/) — Infrastructure graph explorer  
 
