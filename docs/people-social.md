@@ -1,3 +1,7 @@
+## 👤 People Search & Social Media
+
+[← Back to Index](../README.md)
+
 ### Cross-Platform
 - [Sherlock](https://github.com/sherlock-project/sherlock) — Username search across 350+ sites  
 - [WhatsMyName](https://whatsmyname.app/) — Fast username enumeration  
