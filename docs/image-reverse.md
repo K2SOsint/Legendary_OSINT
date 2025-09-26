@@ -1,0 +1,26 @@
+## 📷 Image & Reverse Search
+
+[← Back to Index](../README.md)
+
+### Reverse Image Search Engines
+- [Google Images](https://images.google.com/) — Reverse image search and visual similarity  
+- [Yandex Images](https://yandex.com/images/) — Powerful reverse search, especially for faces and objects  
+- [TinEye](https://tineye.com/) — Reverse image search with focus on older content  
+- [Bing Visual Search](https://www.bing.com/visualsearch) — Reverse image search from Microsoft  
+- [Karma Decay](https://karmadecay.com/) — Reverse search for Reddit images  
+
+### Metadata Extraction
+- [ExifTool](https://exiftool.org/) — Extract EXIF and metadata from images  
+- [Jeffrey’s Exif Viewer](http://exif.regex.info/exif.cgi) — Online EXIF metadata viewer  
+- [Exif.regex](https://exif.regex.info/) — Alternative online EXIF viewer  
+
+### Image Forensics
+- [Forensically](https://29a.ch/photo-forensics/) — Online forensic suite for images  
+- [FotoForensics](http://fotoforensics.com/) — Error Level Analysis and image authenticity tools  
+- [Image Edited?](https://imageedited.com/) — Quick analysis of digital image edits  
+- [IZITRU](http://www.izitru.com/) — Authenticate photo originality (legacy, limited availability)  
+
+### Facial Recognition and Search
+- [PimEyes](https://pimeyes.com/) — Face search engine (commercial)  
+- [Betaface](http://www.betaface.com/demo.html) — Face recognition demo  
+- [FindClone](https://findclone.ru/) — Russian facial recognition search engine
