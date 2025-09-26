@@ -1,5 +1,7 @@
 ## ⚖️ Government & Legal Records
 
+[← Back to Index](../README.md)
+
 ### Court and Legal Databases
 - [PACER](https://pacer.uscourts.gov/) — US federal court records (paid access)  
 - [CourtListener](https://www.courtlistener.com/) — Free access to US legal opinions and filings  
