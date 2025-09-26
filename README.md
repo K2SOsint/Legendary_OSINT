@@ -3,7 +3,8 @@
 A curated list of **OSINT** tools & resources.  
 The sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections.  
 
-⚠️ Most tools are **third-party** — always vet and use responsibly.  
+⚠️ Most tools are **third-party**, always vet and use responsibly.
+⭐ If you use this repository, don't forget to star it and incluse me as a source.
 
 ---
 
