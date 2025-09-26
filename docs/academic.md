@@ -1,5 +1,7 @@
 ## 📚 Academic & Research Databases
 
+[← Back to Index](../README.md)
+
 ### General Academic Search
 - [Google Scholar](https://scholar.google.com/) — Academic literature search  
 - [Semantic Scholar](https://www.semanticscholar.org/) — AI-powered academic research engine  
