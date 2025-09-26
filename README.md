@@ -31,7 +31,6 @@ The sources where I got this from include newsletters, Telegram groups, curated 
 - [🧑‍🤝‍🧑 OSINT for Good (NGOs & Initiatives)](./docs/osint-for-good.md)  
 - [📚 Learning Resources](./docs/learning.md)  
 - [🧠 AI & OSINT Assistance](./docs/ai-osint.md)  
-- [⚡ Investigation Workflows](./docs/workflows.md)  
 - [📝 Reporting & Visualization](./docs/reporting-visualization.md)  
 
 ---
