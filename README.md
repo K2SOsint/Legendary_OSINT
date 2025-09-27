@@ -11,7 +11,8 @@ The sources where I got this from include newsletters, Telegram groups, curated 
 ## 📖 Table of Contents
 
 - [👤 People Search & Social Media](./docs/people-social.md)  
-- [✈️ Aviation Movements & Flight Tracking](./docs/aviation.md)  
+- [✈️ Aviation Movements & Flight Tracking](./docs/aviation.md)
+- [⚓ Vessel Movements, Databases & Shipping](./docs/maritime.md)  
 - [🌍 Domains, IPs & Infrastructure](./docs/infra-domains.md)  
 - [🎣 Phishing & Email Investigation](./docs/phishing-email.md)  
 - [🦠 Malware Analysis & CTI](./docs/malware-cti.md)  
