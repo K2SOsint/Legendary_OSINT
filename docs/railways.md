@@ -26,7 +26,5 @@
 - [BC Canada Railway Track Dataset](https://catalogue.data.gov.bc.ca/dataset/railway-track-line)
 - [Realtime Trains UK](https://www.realtimetrains.co.uk/)
 - [Interrail Country Trains](https://www.interrail.eu/en/plan-your-trip/trains-europe/trainscountry)
-- [Nederlandse Spoorwegen (NS)](https://www.ns.nl/)
 - [US DOT Railroads](https://www.transportation.gov/railroads)
-- [Transport Focus UK Rail Research](https://www.transportfocus.org.uk/research-publications/railresearch/#?modes=4)
 - [Transport Scotland Public Transport](https://www.transport.gov.scot/public-transport)
