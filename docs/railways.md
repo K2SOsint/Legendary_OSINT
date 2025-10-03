@@ -2,8 +2,6 @@
 
 [← Back to Index](../README.md)
 
-### URL Health Check (October 2025)
-
 - [Global Railway Map Reference](https://www.openrailwaymap.org/)
 - [Zugradar](https://zugradar.oebb.at/bin/help.exe/dn?tpl=livefahrplan)
 - [Belgian Train Map](https://trainmap.belgiantrain.be/)
