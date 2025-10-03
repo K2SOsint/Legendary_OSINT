@@ -34,7 +34,8 @@
 ### Technology Fingerprinting
 - [BuiltWith](https://builtwith.com/) — Website technology profiler  
 - [Wappalyzer](https://www.wappalyzer.com/) — Detect CMS, frameworks, and technologies  
-- [Netcraft](https://toolbar.netcraft.com/site_report?url=) — Site reports and hosting analysis  
+- [Netcraft](https://toolbar.netcraft.com/site_report?url=) — Site reports and hosting analysis
+- [Online Nikto scanner](https://nikto.online/) — Identifying Potential Vulnerabilities and Misconfigurations (Active & OSINT)
 - [SpyOnWeb](http://spyonweb.com) — Shared analytics and advertising IDs  
 - [VisualSiteMapper](http://www.visualsitemapper.com) — Website relation mapping  
 
@@ -42,7 +43,8 @@
 - [IPVoid](http://www.ipvoid.com/) — IP lookup and blacklist checks  
 - [GeoIP Tool](https://geoiptool.com/) — Approximate IP geolocation  
 - [CentralOps](http://centralops.net) — Network lookup toolkit  
-- [Network-Tools](http://network-tools.com) — Classic network OSINT (legacy)  
+- [Network-Tools](http://network-tools.com) — Classic network OSINT (legacy)
+- [Online Port scanner](https://portscanner.online) — Check Open Ports (Active Scanning & OSINT) for Target Host 
 - [I Know What You Download](https://iknowwhatyoudownload.com/en/peer/) — Torrent history by IP  
 
 ### Domain Age and History
