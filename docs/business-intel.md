@@ -71,7 +71,59 @@
 - [Switzerland](http://www.zefix.ch/) — Federal Commercial Registry Office  
 - [Turkey](http://www.tobb.org.tr/Sayfalar/Eng/AnaSayfa.php) — Union of Chambers and Commodity Exchanges  
 - [Ukraine](https://reyestr.court.gov.ua/) — Unified State Register  
-- [United Kingdom](http://www.companieshouse.gov.uk/) — Companies House  
+- [United Kingdom](http://www.companieshouse.gov.uk/) — Companies House
+
+### US State Business Registries
+- [Alabama](http://www.sos.alabama.gov/) — Secretary of State  
+- [Alaska](http://commerce.alaska.gov/CBP/Main/) — Department of Commerce  
+- [Arizona](http://www.azcc.gov/divisions/corporations/) — Corporation Commission  
+- [Arkansas](http://www.sosweb.state.ar.us/corp_ucc.html) — Secretary of State  
+- [California](https://businesssearch.sos.ca.gov/) — Secretary of State  
+- [Colorado](http://www.sos.state.co.us/) — Secretary of State  
+- [Connecticut](http://portal.ct.gov/sots) — Secretary of the State  
+- [Delaware](http://corp.delaware.gov/) — Division of Corporations  
+- [Florida](http://www.miamidade.gov/businessexpress/start-register.asp) — Business Express  
+- [Georgia](http://sos.ga.gov/) — Secretary of State  
+- [Hawaii](http://www.ehawaiigov.org/dcca/bizsearch/exe/bizsearch.cgi) — Business Registration Division  
+- [Idaho](http://www.sos.idaho.gov/corp/corindex.htm) — Secretary of State  
+- [Illinois](https://www2.illinois.gov/business) — Business Portal  
+- [Indiana](http://www.in.gov/sos/business/) — Secretary of State  
+- [Iowa](http://www.sos.state.ia.us/) — Secretary of State  
+- [Kansas](http://www.kssos.org/business/business.html) — Secretary of State  
+- [Kentucky](http://www.sos.ky.gov/Pages/default.aspx/) — Secretary of State  
+- [Louisiana](http://www.sos.la.gov/BusinessServices/Pages/default.aspx) — Secretary of State  
+- [Maine](http://www.state.me.us/sos/cec/corp/index.html) — Secretary of State  
+- [Maryland](http://www.dat.state.md.us/sdatweb/charter.html) — Department of Assessments & Taxation  
+- [Massachusetts](http://www.state.ma.us/sec/cor/coridx.htm) — Secretary of the Commonwealth  
+- [Michigan](http://www.michigan.gov/business) — Business Portal  
+- [Minnesota](http://da.sos.state.mn.us/minnesota/home/dahome.asp) — Secretary of State  
+- [Mississippi](http://www.sos.ms.gov/) — Secretary of State  
+- [Missouri](http://www.sos.mo.gov/categories.asp?id=2) — Secretary of State  
+- [Montana](https://app.mt.gov/bes/) — Business e-Services  
+- [Nebraska](http://www.nebraska.gov/business/) — Business Portal  
+- [Nevada](http://nvsos.gov/sosentitysearch/corpsearch.aspx) — Secretary of State  
+- [New Hampshire](https://www.sos.nh.gov/corporate/soskb/CSearch.asp?dtm=443587962962963) — Secretary of State  
+- [New Jersey](http://www.state.nj.us/njbgs/) — Business Gateway Services  
+- [New Mexico](http://www.tax.newmexico.gov/Businesses/Register-your-Business/Pages/Home.aspx) — Taxation & Revenue  
+- [New York](http://www.dos.ny.gov/) — Department of State  
+- [North Carolina](https://www.sosnc.gov/corporations/) — Secretary of State  
+- [North Dakota](https://secure.apps.state.nd.us/sc/busnsrch/busnSearch.htm) — Secretary of State  
+- [Ohio](http://business.ohio.gov/) — Business Portal  
+- [Oklahoma](http://www.state.ok.us/?c=4) — State Portal  
+- [Oregon](http://www.filinginoregon.com/) — Secretary of State  
+- [Pennsylvania](http://www.state.pa.us/) — State Portal  
+- [Rhode Island](http://www.ri.gov/business/) — Business Portal  
+- [South Carolina](http://www.scsos.com/corp_search.htm) — Secretary of State  
+- [South Dakota](http://sdsos.gov/Business/Default.aspx) — Secretary of State  
+- [Tennessee](http://www.state.tn.us/sos/) — Secretary of State  
+- [Texas](http://www.sos.state.tx.us/corp/index.shtml) — Secretary of State  
+- [Utah](http://www.corporations.utah.gov/) — Division of Corporations  
+- [Vermont](http://www.sec.state.vt.us/) — Secretary of State  
+- [Virginia](https://www.scc.virginia.gov/index.aspx) — State Corporation Commission  
+- [Washington](http://access.wa.gov/) — State Portal  
+- [West Virginia](http://www.wvsos.com/wvcorporations/) — Secretary of State  
+- [Wisconsin](http://www.wisconsin.gov/Pages/home.aspx) — State Portal  
+- [Wyoming](http://soswy.state.wy.us/Business/Business.aspx) — Secretary of State  
 
 ### Business Intelligence Platforms
 - [Craft.co](https://craft.co/) — Company profiles and org intelligence  
