@@ -5,7 +5,8 @@
 ### Cross-Platform
 - [Sherlock](https://github.com/sherlock-project/sherlock) — Username search across 350+ sites  
 - [WhatsMyName](https://whatsmyname.app/) — Fast username enumeration 500+ sites
-- [Epieos](https://epieos.com) - Powerful searchtool for e-mail address / phonenumber to accounts  
+- [Epieos](https://epieos.com) - Powerful searchtool for e-mail address / phonenumber to accounts
+- [Lolarchiver](https://lolarchiver.com) - Great searchtool e-mail address / phonenumber to accounts and gamerelated usernames
 - [Maigret](https://github.com/soxoj/maigret) — Collect profiles by username across 2000+ sites  
 - [Holehe](https://github.com/megadose/holehe) — Check if email is registered on platforms  
 - [Blackbird](https://github.com/p1ngul1n0/blackbird) — Alternative username search engine  
