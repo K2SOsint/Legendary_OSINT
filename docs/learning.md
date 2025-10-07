@@ -19,4 +19,6 @@
 - [SecJuice](https://www.secjuice.com/) — Articles on OSINT, infosec, and cyber investigations  
 - [NoHat](https://www.nohat.cc/) — OSINT and cybersecurity research blog  
 - [SANS OSINT Blog](https://www.sans.org/blog/osint/) — Professional OSINT articles  
-- [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) — Cybersecurity news and OSINT-adjacent podcast 
+- [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) — Cybersecurity news and OSINT-adjacent podcast
+- [From The Source](https://blackdotsolutions.com/podcast) - OSINT podcast interviewing professionals by BlackDot Solutions
+- [The Pivot](https://www.maltego.com/categories/the-pivot-podcast/) - OSINT podcast interviewing professionals by Maltego
