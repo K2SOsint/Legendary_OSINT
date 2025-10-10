@@ -23,7 +23,8 @@
 - [Google Maps](https://maps.google.com/) — Standard mapping and geolocation platform  
 - [Google Street View](https://www.google.com/streetview/) — Ground-level panoramas worldwide  
 - [Mapillary](https://www.mapillary.com/) — Crowdsourced street-level imagery  
-- [OpenStreetMap](https://www.openstreetmap.org/) — Community-driven world map  
+- [OpenStreetMap](https://www.openstreetmap.org/) — Community-driven world map
+- [Open Infra Map](https://openinframap.org/) - View of the world's infrastructure mapped in OSM  
 - [Bing Maps](https://www.bing.com/maps) — Microsoft’s mapping solution  
 - [HERE WeGo](https://wego.here.com/) — Mapping and routing platform  
 - [Wikimapia](http://wikimapia.org/) — Collaborative map with user-added info  
