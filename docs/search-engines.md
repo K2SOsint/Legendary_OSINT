@@ -25,7 +25,8 @@
 - [Etools](http://www.etools.ch/) — Swiss metasearch engine  
 - [FaganFinder](http://www.faganfinder.com/) — Advanced metasearch utilities  
 - [iZito](http://www.izito.com/) — European metasearch engine  
-- [MyAllSearch](http://www.myallsearch.com/) — Multi-source meta search    
+- [MyAllSearch](http://www.myallsearch.com/) — Multi-source meta search
+- [WebCleaner](https://www.webcleaner.com/) - Search top internet search engines from one page    
 
 ### Academic and Research Search
 - [Google Scholar](https://scholar.google.com.au/) — Search scholarly literature and academic papers  
