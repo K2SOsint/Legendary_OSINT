@@ -9,12 +9,14 @@
 - [Handbook of Collective Intelligence](https://collective-intelligence.github.io/) — Research and methodology (academic)  
 
 ### Training and Communities
+- [DataExpert](https://dataexpert.eu) - Great European based academy on OSINT, Cybercrime and Cryptocurrency investigations
 - [OSINT Dojo](https://www.osintdojo.com/) — Free structured learning path for OSINT  
 - [OSINT Curious](https://www.osintcurio.us/) — Blog, podcast, and tutorials (archived but valuable)  
 - [Trace Labs OSINT VM & CTFs](https://www.tracelabs.org/) — Virtual machines and OSINT competitions  
 - [Quiztime](https://twitter.com/quiztime) — Daily OSINT challenges on Twitter/X
 - [I-Intelligence](https://i-intelligence.eu/) - Great European Based Academy on OSINT, Analysis and more  
-- [Bellingcat Workshops](https://www.bellingcat.com/workshops/) — Paid training on open source investigations  
+- [Bellingcat Workshops](https://www.bellingcat.com/workshops/) — Paid training on open source investigations
+- [Kase Scenarios](https://kasescenarios.com/) - Immersive free and paid OSINT scenarios to learn and train skills 
 
 ### Blogs 
 - [SecJuice](https://www.secjuice.com/) — Articles on OSINT, infosec, and cyber investigations  
