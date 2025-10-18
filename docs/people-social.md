@@ -161,6 +161,7 @@
 - [IDcrawl](https://www.idcrawl.com/) — Meta search for people across multiple social networks  
 - [PeekYou](https://www.peekyou.com/) — Publicly available people search  
 - [Pipl](https://pipl.com/) — Commercial people search & enrichment
+- [Digital Footprint Check](https://digitalfoorptincheck.com/free-checker) — Search email, username, phone and name of individuals
 
 ---
 
