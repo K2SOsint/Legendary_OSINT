@@ -20,15 +20,21 @@
 - [Soar.Earth](https://soar.earth/) — User-uploaded and satellite imagery platform  
 
 ### Mapping and Street-level
+- [Apple Maps](https://maps.apple.com/) - Map service by Apple
+- [Baidu Maps](https://map.baidu.com/) - Map service by Baidu
+- [Bing Maps](https://www.bing.com/maps) — Microsoft’s mapping solution
+- [GoKML](http://gokml.net/maps) — Online KML maps  
 - [Google Maps](https://maps.google.com/) — Standard mapping and geolocation platform  
-- [Google Street View](https://www.google.com/streetview/) — Ground-level panoramas worldwide  
-- [Mapillary](https://www.mapillary.com/) — Crowdsourced street-level imagery  
+- [Google Street View](https://www.google.com/streetview/) — Ground-level panoramas worldwide
+- [Instant Streetview](https://instantstreetview.com) - Instant Google Street View  
+- [Mapillary](https://www.mapillary.com/) — Crowdsourced street-level imagery
+- [NearToilets](https://neartoilets.com/map) - Find clean public toilets
+- [OpenSeaMap](https://www.openseamap.org/) - The Open Sea Map  
 - [OpenStreetMap](https://www.openstreetmap.org/) — Community-driven world map
 - [Open Infra Map](https://openinframap.org/) - View of the world's infrastructure mapped in OSM  
-- [Bing Maps](https://www.bing.com/maps) — Microsoft’s mapping solution  
 - [HERE WeGo](https://wego.here.com/) — Mapping and routing platform  
 - [Wikimapia](http://wikimapia.org/) — Collaborative map with user-added info  
-- [GoKML](http://gokml.net/maps) — Online KML maps  
+- [Yandex Maps](https://yandex.com/maps/) - Map service by Yandex  
 
 ### Satellite and Aerial Tracking
 - [Space-Track.org](https://www.space-track.org/) — US Space Command satellite data  
