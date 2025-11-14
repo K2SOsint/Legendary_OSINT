@@ -5,7 +5,7 @@
 ###📡 Amateur & Utility Radio Monitoring
 
 - [WebSDR.org](https://websdr.org) - Global network of publicly accessible SDR receivers
-- [KiwiSDR Network](https://rx.linkfanel.net) - Interactive map of KiwiSDR receivers for HF/VHF/UHF monitoring
+- [KiwiSDR Network](http://rx.linkfanel.net) - Interactive map of KiwiSDR receivers for HF/VHF/UHF monitoring
 
 ###📡 Radiostations resources
 - [Radio Garden](https://radio.garden) - Interactive global map of radio stations
@@ -14,7 +14,7 @@
 
 - [Numbers Station Research & Archive](https://priyom.org) - Database and live schedule of known number stations
 - [HF Underground](https://www.hfunderground.com) - Logs of pirate, utility, and number station receptions
-- [Enigma 2000](https://www.enigma2000.org.uk) - Community focused on identifying and cataloging mysterious radio signals
+- [Enigma 2000](http://signalshed.com) - Community focused on identifying and cataloging mysterious radio signals
 
 ###🚔 Public Safety & Aviation
 
@@ -31,7 +31,7 @@
 ### 📰 Databases, Logs & Communities
 - [Frequency Database](https://www.radioreference.com) - Comprehensive global frequency listings and live feeds
 - [High Frequency Coordination Conference](https://www.hfcc.org) - Official frequency schedules of shortwave broadcasters
-- [EiBi Shortwave Database](https://www.eibispace.de) - Regularly updated international shortwave schedules
+- [EiBi Shortwave Database](http://eibispace.de) - Regularly updated international shortwave schedules
 
 ### Communities & Research Hubs
 
