@@ -26,8 +26,7 @@
 - [EarthCam](https://www.earthcam.com/) — Live webcams from around the world  
 - [NewsLookUp](https://newslookup.com/) — News search engine with live feeds and archive  
 
-### Social Media & Trend Tracking
-- [CrowdTangle](https://www.crowdtangle.com/) — Facebook and Instagram content monitoring (restricted access)  
+### Social Media & Trend Tracking 
 - [BuzzSumo](https://buzzsumo.com/) — Content monitoring and social trend analysis (freemium)  
 - [Talkwalker Alerts](https://www.talkwalker.com/alerts) — Google Alerts alternative for media and web mentions  
 - [Mention](https://mention.com/en/) — Monitor mentions across news and social media (freemium)
