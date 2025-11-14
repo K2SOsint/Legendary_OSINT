@@ -23,4 +23,3 @@
 ### IOC and Threat Intelligence Integration
 - [Maltiverse](https://maltiverse.com/search) — IOC enrichment and threat intelligence search  
 - [ThreatMiner](https://www.threatminer.org/) — IOC and malware sample data mining  
-- [ThreatCrowd](https://threatcrowd.org/) — Investigate domains, IPs, and emails via visual graphs  
