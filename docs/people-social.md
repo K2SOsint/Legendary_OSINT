@@ -23,7 +23,7 @@
 ### Discord
 - [Disboard](https://disboard.org/) — Server directory  
 - [Discord Lookup](https://discord.id/) — Lookup user IDs  
-- [Snowsta](https://snowsta.com/) — Discord snowflake ID OSINT  
+- [Snowsta](https://snowsta.mp/) — Discord snowflake ID OSINT  
 - [Guild.xyz](https://guild.xyz/) — Explore Discord guilds & communities  
 
 ---
