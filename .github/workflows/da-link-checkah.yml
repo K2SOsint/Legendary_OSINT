@@ -25,6 +25,12 @@ jobs:
             --no-progress
             --timeout 20
             --max-concurrency 4
-            --exclude-mail
             .
           fail: true
+          debug: false
+          failIfEmpty: true
+          format: markdown
+          jobSummary: true
+          lycheeVersion: v0.21.0
+          output: lychee/out.md
+          checkbox: true
