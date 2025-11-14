@@ -20,7 +20,7 @@
 - [Ask.com](https://www.ask.com/) — General purpose search engine  
 - [Lycos](http://www.lycos.com/) — Legacy search and portal site  
 - [Search.com](https://www.search.com/) — Meta search across engines  
-- [All-in-One Search]([https://all-io.net/) — Multi-engine meta search  
+- [All-in-One Search](https://all-io.net/) — Multi-engine meta search  
 - [AllTheInternet](http://www.alltheinternet.com/) — Web and multimedia search  
 - [Etools](http://www.etools.ch/) — Swiss metasearch engine  
 - [FaganFinder](http://www.faganfinder.com/) — Advanced metasearch utilities  
@@ -63,8 +63,7 @@
 - [Shodan](https://www.shodan.io) — Search for internet-connected devices  
 - [Censys](https://censys.io) — Search infrastructure and SSL certificates  
 - [FOFA](https://fofa.so) — Internet-wide search engine  
-- [ZoomEye](https://www.zoomeye.org) — IoT and cyberspace search  
-- [Thingful](https://www.thingful.net) — Search engine for IoT devices  
+- [ZoomEye](https://www.zoomeye.org) — IoT and cyberspace search    
 - [LeakIX](https://leakix.net) — Search exposed services and databases
 - [Netlas.io](https://netlas.io/) — Internet-wide search and analytics  
 - [Million Short](https://millionshort.com/) — Search engine that omits top sites for discovery  
