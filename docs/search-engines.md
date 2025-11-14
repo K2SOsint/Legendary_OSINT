@@ -20,7 +20,7 @@
 - [Ask.com](https://www.ask.com/) — General purpose search engine  
 - [Lycos](http://www.lycos.com/) — Legacy search and portal site  
 - [Search.com](https://www.search.com/) — Meta search across engines  
-- [All-in-One Search](http://all-in-one-search.com/) — Multi-engine meta search  
+- [All-in-One Search]([https://all-io.net/) — Multi-engine meta search  
 - [AllTheInternet](http://www.alltheinternet.com/) — Web and multimedia search  
 - [Etools](http://www.etools.ch/) — Swiss metasearch engine  
 - [FaganFinder](http://www.faganfinder.com/) — Advanced metasearch utilities  
