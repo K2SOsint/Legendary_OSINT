@@ -7,7 +7,7 @@
 - [Radar.freedar.uk](https://radar.freedar.uk/VirtualRadar/desktop.html) — Virtual radar desktop view  
 - [Flightradar24](https://www.flightradar24.com/) — Real-time flight tracking  
 - [FlightAware](https://flightaware.com) — Live flight data and analytics  
-- [LiveATC](https://www.liveatc.net/) — Listen to live air traffic control  
+- [LiveATC](https://liveatc.net/) — Listen to live air traffic control  
 
 ### Historical Flight Data
 - [ADS-B Exchange Historical](https://flight-data.adsbexchange.com) — Archived flight data  
