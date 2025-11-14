@@ -46,8 +46,7 @@
 
 ### Geospatial Analysis Tools
 - [SunCalc](https://suncalc.org/) — Calculate sun position and shadows for a given time  
-- [PeakFinder](https://www.peakfinder.org/) — Identify mountains and terrain from coordinates  
-- [GeoNames](https://www.geonames.org/) — Geographical names database  
+- [PeakFinder](https://www.peakfinder.org/) — Identify mountains and terrain from coordinates    
 - [QGIS](https://qgis.org/) — Open-source desktop GIS application  
 - [ArcGIS Online](https://www.arcgis.com/) — Cloud-based mapping and spatial analysis  
 - [Gephi](https://gephi.org/) — Visualization and spatial network analysis  
