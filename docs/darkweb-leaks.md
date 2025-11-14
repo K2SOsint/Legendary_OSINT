@@ -22,7 +22,6 @@
 - [Tor.Taxi](http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion/) — Directory/portal for onion services  
 
 ### Leak Sites & Forums
-- [Breached.to](https://breached.to/) — Breach/leak forum  
 - [IntelligenceX](https://intelx.io) — Leaks & darknet indexing  
 - [OCCRP Aleph](https://data.occrp.org) — Public leaks & investigations  
 
