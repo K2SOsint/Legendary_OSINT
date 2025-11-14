@@ -15,5 +15,4 @@
 
 ### Paste & Text Storage
 - [0bin](https://0bin.net/) — Encrypted pastebin  
-- [Cryptobin](https://cryptobin.co/) — Secure encrypted paste service  
 - [Defuse](https://defuse.ca/pastebin.htm) — Pastebin with encryption options  
