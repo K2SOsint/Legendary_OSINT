@@ -3,10 +3,11 @@
 [← Back to Index](../README.md)
 
 ### Reverse Image Search Engines
+- [Baidu Image](https://image.baidu.com/) - Reverse image search and AI image creation by Baidu
+- [Bing Visual Search](https://www.bing.com/visualsearch) — Reverse image search from Microsoft  
 - [Google Images](https://images.google.com/) — Reverse image search and visual similarity  
 - [Yandex Images](https://yandex.com/images/) — Powerful reverse search, especially for faces and objects  
 - [TinEye](https://tineye.com/) — Reverse image search with focus on older content  
-- [Bing Visual Search](https://www.bing.com/visualsearch) — Reverse image search from Microsoft  
 - [Karma Decay](https://karmadecay.com/) — Reverse search for Reddit images  
 
 ### Metadata Extraction
