@@ -19,7 +19,7 @@
 ###🚔 Public Safety & Aviation
 
 - [Broadcastify](https://www.broadcastify.com/listen) - Live police, fire, EMS, and aviation feeds worldwide
-- [LiveATC.net](https://liveatc.net) - Global live streams of air traffic control communications
+- [LiveATC.net](http://liveatc.net) - Global live streams of air traffic control communications
 - [MarineTraffic Radio (AIS Feeds)](https://www.marinetraffic.com) - Marine AIS transponder data and related VHF radio info
 
 ### 🛰️ Satellite & Space Communications
