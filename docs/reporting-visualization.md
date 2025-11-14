@@ -10,7 +10,7 @@
 ### Capturing tools & Web Scraping
 - [Data Miner](https://dataminer.io/) - Data Miner is a Chromium Extension that helps you crawl and scrape data from web pages and into a CSV file or Excel spreadsheet (freemium)
 - [Forensic OSINT](https://www.forensicosint.com/) - OSINT web capture software (commercial)
-- [Hunchly](https://www.hunch.ly/) — Web capture and investigation case management for OSINT (commercial)
+- [Hunchly](https://hunch.ly/) — Web capture and investigation case management for OSINT (commercial)
 - [OctoParse](https://www.octoparse.com/) - no-coding solution for web scraping to turn pages into structured data within clicks (commercial)
 - [Ubikron](https://www.ubikron.com/) - Ubikron tracks, enriches, and connects every step of your research, using AI to reveal patterns and keep your investigation moving forward (freemium)
 
