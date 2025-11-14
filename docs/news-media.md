@@ -12,8 +12,7 @@
 ### Media Search Engines
 - [GDELT Project](https://www.gdeltproject.org/) — Global database of events, language, and tone in news media  
 - [Media Cloud](https://mediacloud.org/) — Research tool for analyzing online news  
-- [Event Registry](https://eventregistry.org/) — AI-driven news aggregation and analysis  
-- [AYLIEN News API](https://aylien.com/news-api/) — News search and analysis API (freemium)  
+- [Event Registry](https://eventregistry.org/) — AI-driven news aggregation and analysis   
 - [Bloomberg](https://www.bloomberg.com/) — Business and global news (commercial)  
 - [Reuters](https://www.reuters.com/) — International newswire service  
 
