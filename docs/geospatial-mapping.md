@@ -16,7 +16,7 @@
 - [Mapbox Near-Time Imagery](https://www.mapbox.com/bites/00145/#12/-34.0238819/151.0674949) — Near real-time satellite maps  
 - [GIS Geography: 25 Satellite Maps](https://gisgeography.com/satellite-maps/) — Guide to alternative satellite maps  
 - [Wayback Imagery](http://livingatlas.arcgis.com/wayback/) — Historic satellite imagery archive  
-- [Maxar Discovery](https://discover.digitalglobe.com/) — High-resolution imagery archive  
+- [Maxar Discovery](https://xpress.maxar.com) — High-resolution imagery archive  
 - [Soar.Earth](https://soar.earth/) — User-uploaded and satellite imagery platform  
 
 ### Mapping and Street-level
