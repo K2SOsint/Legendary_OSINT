@@ -21,7 +21,6 @@
 
 ### Specialized AIS & Regional Tools
 - [BoatNerd AIS](http://ais.boatnerd.com) — AIS tracking (Great Lakes focus)   
-- [Maritime Connector](http://maritime-connector.com) — Maritime jobs and company directory  
 - [AIS SK2HG](http://ais.sk2hg.se) — AIS tracking site  
 - [Digimap Guernsey AIS](http://www.digimap.gg/marine/ais) — AIS Explorer for Guernsey waters  
 - [HELCOM AIS Explorer](http://maps.helcom.fi/website/AISexplorer) — Baltic Sea shipping traffic  
