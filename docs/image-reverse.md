@@ -12,8 +12,7 @@
 
 ### Metadata Extraction
 - [ExifTool](https://exiftool.org/) — Extract EXIF and metadata from images  
-- [Jeffrey’s Exif Viewer](http://exif.regex.info/exif.cgi) — Online EXIF metadata viewer  
-- [Exif.regex](https://exif.regex.info/) — Alternative online EXIF viewer  
+- [Jeffrey’s Exif Viewer](http://exif.regex.info/exif.cgi) — Online EXIF metadata viewer   
 
 ### Image Forensics
 - [Forensically](https://29a.ch/photo-forensics/) — Online forensic suite for images  
