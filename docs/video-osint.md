@@ -4,7 +4,6 @@
 
 ### Video Verification
 - [InVID/WeVerify](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) — Browser plugin for video verification and analysis  
-- [YouTube DataViewer](https://citizenevidence.amnestyusa.org/) — Extract video metadata and upload time  
 
 ### Video Download and Archiving
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Download and archive YouTube and other videos  
