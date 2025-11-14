@@ -3,7 +3,7 @@
 [← Back to Index](../README.md)
 
 ### Recon Frameworks
-- [SpiderFoot](https://www.spiderfoot.net/) — Automated reconnaissance with 200+ modules  
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) — Automated reconnaissance with 200+ modules  
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) — Open-source recon framework  
 - [Maltego](https://www.maltego.com/) — Link analysis and visualization platform  
 - [OSRFramework](https://github.com/i3visio/osrframework) — Username, email, and phone recon  
