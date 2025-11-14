@@ -57,7 +57,6 @@
 - [osint.sh](https://osint.sh/buckets) — Search exposed cloud buckets  
 - [GrayHatWarfare](https://buckets.grayhatwarfare.com) — Public S3 bucket search  
 - [I Search From](http://isearchfrom.com) — Google search simulator for location/device  
-- [MAC.lc](https://mac.lc) — MAC address lookup
 - [Marginalia](https://marginalia-search.com/) — Alternative search engine focusing on smaller sites  
 - [Media Search Tool](https://www.no-nonsense-intel.com/adverse-media-search-tool) — Adverse media OSINT search tool  
 - [Shodan](https://www.shodan.io) — Search for internet-connected devices  
