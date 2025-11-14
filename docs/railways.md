@@ -4,7 +4,6 @@
 
 - [Global Railway Map Reference](https://www.openrailwaymap.org/)
 - [Zugradar](https://zugradar.oebb.at/bin/help.exe/dn?tpl=livefahrplan)
-- [Belgian Train Map](https://trainmap.belgiantrain.be/)
 - [VR Trains Finland](https://junatkartalla.vr.fi/?lang=en-US)
 - [TRAVIC Visualization](https://tracker.geops.de/?z=13&s=1&x=950813.1667&y=6003976.5951&l=transport)
 - [SNCF Train Geolocation](https://www.sncf.com/fr/itineraire-reservation/geolocalisation)
