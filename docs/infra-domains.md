@@ -24,8 +24,7 @@
 - [SecurityTrails](https://securitytrails.com/) — DNS and infrastructure data  
 - [Robtex](http://robtex.com/) — Infrastructure graph explorer  
 
-### Certificates and DNS
-- [CertDB](http://certdb.com) — Historical SSL certificates  
+### Certificates and DNS 
 - [crt.sh](https://crt.sh/) — Certificate Transparency logs  
 - [PassiveDNS (Mnemonic)](https://passivedns.mnemonic.no/) — Historical DNS resolution  
 - [DNSDumpster](https://dnsdumpster.com/) — DNS mapping and reconnaissance  
@@ -42,7 +41,8 @@
 
 ### IP Tools
 - [IPVoid](http://www.ipvoid.com/) — IP lookup and blacklist checks  
-- [GeoIP Tool](https://geoiptool.com/) — Approximate IP geolocation  
+- [IP Location](https://iplocation.net/) — Approximate IP geolocation
+- [Maxmind](https://maxmind.com/) — Geo IP tool
 - [CentralOps](http://centralops.net) — Network lookup toolkit  
 - [Network-Tools](http://network-tools.com) — Classic network OSINT (legacy)
 - [Online Port scanner](https://portscanner.online) — Check Open Ports (Active Scanning & OSINT) for Target Host 
@@ -50,8 +50,6 @@
 
 ### Domain Age and History
 - [CarbonDate](http://carbondate.cs.odu.edu/) — Estimate when a domain was created  
-- [Webotheek.nl](https://webotheek.nl/) — Dutch .nl domain research  
-- [Timer4Web](http://timer4web.com) — Detect changes and analytics IDs (partial free, paid features)  
 - [Whois EasyCounter](https://whois.easycounter.com/) — Historical Whois and ownership details  
 - [WhyNoHTTPS](https://whynohttps.com/) — Database of sites without HTTPS  
 
