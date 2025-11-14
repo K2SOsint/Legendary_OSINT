@@ -50,8 +50,7 @@
 - [OSINTgram](https://github.com/Datalux/Osintgram) — Command-line Instagram OSINT  
 - [InstaLooter](https://github.com/althonos/InstaLooter) — Download profile content  
 - [Picuki](https://www.picuki.com/) — Instagram web viewer/downloader  
-- [StoriesDown](https://storiesdown.com/) — Download Instagram stories anonymously  
-- [InstaDP](https://www.instadp.io/) — View and download profile pictures  
+- [InstaDP](https://www.instadp.com/) — View and download profile pictures  
 
 ---
 
@@ -66,7 +65,7 @@
 
 ### Reddit
 - [Pushshift Reddit Search](https://redditsearch.io/) — Historical Reddit data  
-- [Reddit Insight](https://redditinsight.com/) — Analyze profiles & posting activity  
+- [Reddit Insight](https://reddit-insight.com/) — Analyze profiles & posting activity  
 - [ReSavr](https://www.resavr.com/) — Recover deleted comments  
 - [Camas Reddit Investigator](https://camas.github.io/reddit-search/) — Search Reddit posts & comments
 - [Redective](https://redective.com/) - The Reddit Search Detective  
@@ -86,8 +85,7 @@
 - [TGDB](https://www.tgdb.org/) - Searchable Telegram database service
 - [Telemetr.io](https://telemetr.io/) - Telegram analytics suite
 - [IntelX - Telegram](https://intelx.io/tools?tab=telegram) - IntelX Telegram Search  
-- [Telepathy](https://github.com/jordanwildon/Telepathy) — Extract account info via API  
-- [FindThatGroup](https://findthatgroup.com/) — Public group/channel directory  
+- [Telepathy](https://github.com/jordanwildon/Telepathy) — Extract account info via API   
 - [Combot](https://combot.org/telegram/top/groups) — Top Telegram groups/channels  
 - [TLGrip](https://github.com/Ph055a/TLGrip) — Telegram scraper for groups/chats
 - [Telegram Channels](https://tlgrm.eu/channels) - Search Telegram Channels
@@ -117,7 +115,6 @@
 - [FindNameVk Bot](https://t.me/FindNameVk_bot) — Telegram bot to search for VK profiles by name
 - [Дезертир](https://t.me/deserteer) — Telegram tool for VK-related OSINT (Russian)
 - [Barkov.net](https://barkov.net/) — VK user and community search engine
-- [VK5](https://vk5.city/) — VK search engine and analytics tool
 - [VK Community Search](https://vk.com/communities) — Discover VK groups and communities
 - [VK People Search](https://vk.com/people) — Find VK users by various filters
 
@@ -168,8 +165,6 @@
 - [Flickr API](https://www.flickr.com/services/api/) — Photo metadata    
 - [Mastodon Instances](https://instances.social/) — Fediverse OSINT  
 - [Gab Trends](https://trends.gab.com/) — Gab content tracker  
-- [Truth Social Search](https://truthsocial.tools/) — Tools for Donald Trump’s Truth Social  
-- [Parler Tracker](https://parlertracker.com/) — Track content from Parler  
 
 ---
 
