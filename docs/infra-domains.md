@@ -17,7 +17,8 @@
 ### Domain Intelligence
 - [DomainTools](https://domaintools.com) — Domain research platform  
 - [DomainIQ](https://www.domainiq.com/) — Domain intelligence and history  
-- [Completedns](https://completedns.com/dns-history/) — DNS history database  
+- [Completedns](https://completedns.com/dns-history/) — DNS history database
+- [IPQS](https://www.ipqualityscore.com/) - Toolbox for domain/IP intelligence 
 - [WhoisRequest](http://whoisrequest.com/history/) — Domain ownership history lookup  
 - [DomainBigData](http://domainbigdata.com) — Domain ownership and historical data  
 - [SecurityTrails](https://securitytrails.com/) — DNS and infrastructure data  
