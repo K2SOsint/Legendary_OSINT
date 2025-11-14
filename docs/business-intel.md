@@ -78,7 +78,7 @@
 - [Alaska](http://commerce.alaska.gov/CBP/Main/) — Department of Commerce  
 - [Arizona](http://www.azcc.gov/divisions/corporations/) — Corporation Commission  
 - [Arkansas](http://www.sosweb.state.ar.us/corp_ucc.html) — Secretary of State  
-- [California](https://businesssearch.sos.ca.gov/) — Secretary of State  
+- [California](https://bizfileonline.sos.ca.gov/search/business) — Secretary of State  
 - [Colorado](http://www.sos.state.co.us/) — Secretary of State  
 - [Connecticut](http://portal.ct.gov/sots) — Secretary of the State  
 - [Delaware](http://corp.delaware.gov/) — Division of Corporations  
@@ -88,15 +88,15 @@
 - [Idaho](http://www.sos.idaho.gov/corp/corindex.htm) — Secretary of State  
 - [Illinois](https://www2.illinois.gov/business) — Business Portal  
 - [Indiana](http://www.in.gov/sos/business/) — Secretary of State  
-- [Iowa](http://www.sos.state.ia.us/) — Secretary of State  
+- [Iowa](https://sos.iowa.gov/search/business/search.aspx) — Secretary of State  
 - [Kansas](http://www.kssos.org/business/business.html) — Secretary of State  
 - [Kentucky](http://www.sos.ky.gov/Pages/default.aspx/) — Secretary of State  
 - [Louisiana](http://www.sos.la.gov/BusinessServices/Pages/default.aspx) — Secretary of State  
 - [Maine](http://www.state.me.us/sos/cec/corp/index.html) — Secretary of State  
 - [Maryland](http://www.dat.state.md.us/sdatweb/charter.html) — Department of Assessments & Taxation  
-- [Massachusetts](http://www.state.ma.us/sec/cor/coridx.htm) — Secretary of the Commonwealth  
+- [Massachusetts](https://corp.sec.state.ma.us/corpweb/CorpSearch/CorpSearch.aspx) — Secretary of the Commonwealth  
 - [Michigan](http://www.michigan.gov/business) — Business Portal  
-- [Minnesota](http://da.sos.state.mn.us/minnesota/home/dahome.asp) — Secretary of State  
+- [Minnesota](https://mblsportal.sos.mn.gov/Business/Search) — Secretary of State  
 - [Mississippi](http://www.sos.ms.gov/) — Secretary of State  
 - [Missouri](http://www.sos.mo.gov/categories.asp?id=2) — Secretary of State  
 - [Montana](https://app.mt.gov/bes/) — Business e-Services  
@@ -118,7 +118,7 @@
 - [Tennessee](http://www.state.tn.us/sos/) — Secretary of State  
 - [Texas](http://www.sos.state.tx.us/corp/index.shtml) — Secretary of State  
 - [Utah](http://www.corporations.utah.gov/) — Division of Corporations  
-- [Vermont](http://www.sec.state.vt.us/) — Secretary of State  
+- [Vermont](https://bizfilings.vermont.gov/business/businesssearch) — Secretary of State  
 - [Virginia](https://www.scc.virginia.gov/index.aspx) — State Corporation Commission  
 - [Washington](http://access.wa.gov/) — State Portal  
 - [West Virginia](http://www.wvsos.com/wvcorporations/) — Secretary of State  
