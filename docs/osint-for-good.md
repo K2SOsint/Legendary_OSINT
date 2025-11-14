@@ -13,7 +13,6 @@
 - [Innocent Lives Foundation](https://www.innocentlivesfoundation.org/) — Identify perpetrators of child exploitation  
 - [StopTheTraffik](https://www.stopthetraffik.org/) — Global initiative to disrupt human trafficking  
 - [ATII](https://followmoneyfightslavery.org/) — Anti-Human Trafficking Intelligence Initiative  
-- [BADASS Army](https://badassarmy.org/) — Fight against non-consensual image sharing  
 - [Amnesty Citizen Evidence Lab](https://citizenevidence.org/) — Tools and resources for human rights verification  
 
 ### Crisis Mapping and Volunteer Intel
