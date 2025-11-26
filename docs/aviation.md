@@ -48,6 +48,5 @@
 ### Cargo & Drone Research
 - [CargoTracking Utopiax](http://cargotracking.utopiax.org) — Cargo and flight tracking  
 - [Drone Center Database](http://dronecenter.bard.edu/the-drone-database) — Bard Center drone database  
-- [Drone Research Lab](http://droneresearchlab.com) — Research on drones and unmanned aerial systems  
 - [CNAS Drone Project](http://drones.cnas.org/drones) — Drone wars and policy project  
 - [UAS Vision](https://www.uasvision.com/about) — News and resources on unmanned aerial systems  
