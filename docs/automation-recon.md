@@ -16,7 +16,7 @@
 - [Wappalyzer Extension](https://www.wappalyzer.com/apps) — Detect web technologies directly in browser  
 
 ### Metadata and Document Analysis
-- [Metagoofil](https://www.edge-security.com/metagoofil.php) — Metadata extraction from public documents  
+- [Metagoofil](https://github.com/laramies/metagoofil) — Metadata extraction from public documents  
 - [FOCA](https://github.com/ElevenPaths/FOCA) — Document metadata collection and analysis  
 - [Bulk Extractor](https://github.com/simsong/bulk_extractor) — Forensic tool for extracting digital artifacts  
 
