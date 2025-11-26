@@ -7,13 +7,12 @@
 
 ### Video Download and Archiving
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Download and archive YouTube and other videos  
-- [4K Video Downloader](https://www.4kdownload.com/products/product-videodownloader) — Cross-platform video downloader (freemium)  
-- [SaveFrom.net](https://en.savefrom.net/) — Quick video download service  
+- [4K Video Downloader](https://www.4kdownload.com/products/videodownloader-42) — Cross-platform video downloader (freemium)  
+- [SaveFrom.net](https://us.savefrom.net/) — Quick video download service  
 
 ### Streaming and Broadcast Analysis
 - [TwitchTracker](https://twitchtracker.com/) — Analytics and tracking for Twitch channels  
-- [Streamscharts](https://streamscharts.com/) — Track statistics of live streams  
-- [Facebook Video Insights](https://www.facebook.com/business/help/788388387972460) — Analytics for Facebook video content  
+- [Streamscharts](https://streamscharts.com/) — Track statistics of live streams   
 
 ### Deepfake and Manipulated Media Detection
 - [Deepware Scanner](https://deepware.ai/) — Tool to detect deepfakes in videos  
