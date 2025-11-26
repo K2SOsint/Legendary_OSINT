@@ -34,7 +34,13 @@
 - [Open Infra Map](https://openinframap.org/) - View of the world's infrastructure mapped in OSM  
 - [HERE WeGo](https://wego.here.com/) — Mapping and routing platform  
 - [Wikimapia](http://wikimapia.org/) — Collaborative map with user-added info  
-- [Yandex Maps](https://yandex.com/maps/) - Map service by Yandex  
+- [Yandex Maps](https://yandex.com/maps/) - Map service by Yandex
+
+### Location Estimation
+- [GeoSpy.ai](https://geospy.ai) - Locates images through AI pixel analysis. Not publicly available
+- [Picarta](https://picarta.ai) - Locates images through AI EXIF data / algorithms
+- [TIB Labs](https://labs.tib.eu/geoestimation/) - Uses deep learning / scene classification to determine country/location
+- [Findthatspot](https://www.findthatspot.io/) - Using OSM to locate features for Geolocation
 
 ### Satellite and Aerial Tracking
 - [Space-Track.org](https://www.space-track.org/) — US Space Command satellite data  
