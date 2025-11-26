@@ -41,6 +41,8 @@
 - [Picarta](https://picarta.ai) - Locates images through AI EXIF data / algorithms
 - [TIB Labs](https://labs.tib.eu/geoestimation/) - Uses deep learning / scene classification to determine country/location
 - [Findthatspot](https://www.findthatspot.io/) - Using OSM to locate features for Geolocation
+- [PeakFinder](https://www.peakfinder.org/) — Identify mountains and terrain from coordinates
+- [PeakVisor](https://peakvisor.com/) - same as above  
 
 ### Satellite and Aerial Tracking
 - [Space-Track.org](https://www.space-track.org/) — US Space Command satellite data  
@@ -50,14 +52,14 @@
 - [Celestrak](https://celestrak.org/) — Orbital data for satellites and debris  
 - [In-The-Sky Satellite Maps](https://in-the-sky.org/satmap_worldmap.php) — Interactive orbital maps  
 
-### Geospatial Analysis Tools
+### Sun vs. Shadow
 - [ShadeMap](https://shademap.app/) - Sunlight simulation on OSM instance
 - [ShadowMap](https://app.shadowmap.org/) - Sunlight simulation on 3d map
 - [SunCalc](https://suncalc.org/) — Calculate sun position and shadows for a given time
 - [SunEarthTools](https://www.sunearthtools.com/dp/tools/pos_sun.php) - Sun position tracking
 - [BellingCat Shadowfinder](https://github.com/bellingcat/ShadowFinder?tab=readme-ov-file) - Estimating the points on the Earth's surface where a shadow of a particular length could occur 
-- [PeakFinder](https://www.peakfinder.org/) — Identify mountains and terrain from coordinates
-- [PeakVisor](https://peakvisor.com/) - same as above   
+
+### Geospatial Analysis Tools
 - [QGIS](https://qgis.org/) — Open-source desktop GIS application  
 - [ArcGIS Online](https://www.arcgis.com/) — Cloud-based mapping and spatial analysis  
 - [Gephi](https://gephi.org/) — Visualization and spatial network analysis  
