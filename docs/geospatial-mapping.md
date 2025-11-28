@@ -10,7 +10,7 @@
 - [EO Browser](https://www.sentinel-hub.com/explore/eobrowser/) — Browser-based access to Sentinel imagery  
 - [NASA Worldview](https://worldview.earthdata.nasa.gov/) — Daily global satellite data  
 - [USGS EarthExplorer](https://earthexplorer.usgs.gov/) — Access historical satellite imagery  
-- [ESA Copernicus Open Access](https://scihub.copernicus.eu/) — Sentinel mission data access  
+- [ESA Copernicus Open Access](https://dataspace.copernicus.eu/explore-data) — Sentinel mission data access  
 - [NOAA Satellite Data](https://www.nesdis.noaa.gov/) — US environmental satellite imagery  
 - [Satellites.pro](https://satellites.pro/) — Online satellite maps viewer  
 - [Mapbox Near-Time Imagery](https://www.mapbox.com/bites/00145/#12/-34.0238819/151.0674949) — Near real-time satellite maps  
