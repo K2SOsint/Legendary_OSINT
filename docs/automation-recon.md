@@ -22,6 +22,6 @@
 
 ### Self-hosted and Modular Platforms
 - [Cortex](https://github.com/TheHive-Project/Cortex) — Observable analysis and enrichment framework  
-- [OpenCTI](https://www.opencti.io/en/) — Threat intelligence platform with enrichment modules  
+- [OpenCTI](https://filigran.io/platforms/opencti/) — Threat intelligence platform with enrichment modules  
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) — API-driven threat intel and OSINT automation  
 - [Kali Linux](https://www.kali.org/) — Linux distribution with OSINT and recon tools included
