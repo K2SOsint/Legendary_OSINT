@@ -30,7 +30,7 @@
 
 ### 📰 Databases, Logs & Communities
 - [Frequency Database](https://www.radioreference.com) - Comprehensive global frequency listings and live feeds
-- [High Frequency Coordination Conference](https://www.hfcc.org) - Official frequency schedules of shortwave broadcasters
+- [High Frequency Coordination Conference](https://new.hfcc.org/index.php) - Official frequency schedules of shortwave broadcasters
 - [EiBi Shortwave Database](http://eibispace.de) - Regularly updated international shortwave schedules
 
 ### Communities & Research Hubs
