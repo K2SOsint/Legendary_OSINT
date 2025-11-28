@@ -26,7 +26,7 @@
 - [OCCRP Aleph](https://data.occrp.org) — Public leaks & investigations  
 
 ### General Dark Web Search & Tools
-- [DarkSearch](https://darksearch.io) — Clearnet dark web search  
+  
 - [IACA Dark Web Tools](https://iaca-darkweb-tools.com) — Toolkit for investigators  
 - [Napalm FTP](https://www.searchftps.net) — Search open FTP servers  
 - [Archive.org](https://archive.org) — Historical archiving (sometimes mirrors darknet material)  
