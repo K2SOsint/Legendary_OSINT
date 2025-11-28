@@ -76,7 +76,7 @@
 ---
 
 ### Telegram
-- [Telegago](https://bit.ly/Telegago) — Group/channel OSINT  
+- [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg) — Group/channel OSINT  
 - [TgScan](https://tgscan.xyz/) — Search public groups/channels
 - [TGDB](https://www.tgdb.org/page/index) - Searchable Telegram database service
 - [Telemetr.io](https://telemetr.io/en) - Telegram analytics suite
