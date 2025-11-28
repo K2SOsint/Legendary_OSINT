@@ -15,7 +15,6 @@
 
 ### ClubHouse
 
-- [Clubhouse Tools](https://clubsearch.io/) — Clubhouse room & club search (limited)
 - [Clubhouse DB](https://clubhousedb.com) - Clubhouse User database
 
 ---
@@ -29,10 +28,8 @@
 ---
 
 ### Facebook
-- [StalkFace](https://stalkface.com/) — Extract hidden profile info  
-- [Lookup-ID](https://lookup-id.com/) — Get Facebook IDs from URLs  
-- [GraphTips](https://github.com/Malandrin/GraphTips) — Facebook graph search revival  
-- [Social Search Facebook](https://www.social-searcher.com/facebook-search/) — Search within Facebook
+- [StalkFace](https://stalkface.com/en/) — Extract hidden profile info  
+- [Lookup-ID](https://lookup-id.com/) — Get Facebook IDs from URLs   
 - [WhoPostedWhat](https://whopostedwhat.com) - Graph tools for Facebook
 
 ---
@@ -50,8 +47,9 @@
 - [OSINTgram](https://github.com/Datalux/Osintgram) — Command-line Instagram OSINT  
 - [InstaLooter](https://github.com/althonos/InstaLooter) — Download profile content  
 - [Picuki](https://www.picuki.com/) — Instagram web viewer/downloader  
-- [InstaDP](https://www.instadp.com/) — View and download profile pictures  
-
+- [InstaDP](https://instastoriesviewer.com/instadp/) — View and download profile pictures  
+- [ImgInn](https://imginn.com/) - Story and photo viewer
+  
 ---
 
 ### LinkedIn
@@ -64,30 +62,27 @@
 ---
 
 ### Reddit
-- [Pushshift Reddit Search](https://redditsearch.io/) — Historical Reddit data  
 - [Reddit Insight](https://reddit-insight.com/) — Analyze profiles & posting activity  
 - [ReSavr](https://www.resavr.com/) — Recover deleted comments  
-- [Camas Reddit Investigator](https://camas.github.io/reddit-search/) — Search Reddit posts & comments
 - [Redective](https://redective.com/) - The Reddit Search Detective  
 
 ---
 
 ### Snapchat
 - [SnapChat Political Ads Database](https://www.snap.com/political-ads) - Political Ads Database starting from 2018
-- [SnapChat Explore](https://snapchat.com/explore/) - Use search bar to search for usernames, tags f.e.
+- [SnapChat Explore](https://www.snapchat.com/discover) - Use search bar to search for usernames, tags f.e.
 - [Snaplytics](https://snaplytics.io/) - Several tools to download profile pictures, stories and videos
 
 ---
 
 ### Telegram
-- [Telegago](https://github.com/Telegago/Telegago) — Group/channel OSINT  
+- [Telegago](https://bit.ly/Telegago) — Group/channel OSINT  
 - [TgScan](https://tgscan.xyz/) — Search public groups/channels
-- [TGDB](https://www.tgdb.org/) - Searchable Telegram database service
-- [Telemetr.io](https://telemetr.io/) - Telegram analytics suite
+- [TGDB](https://www.tgdb.org/page/index) - Searchable Telegram database service
+- [Telemetr.io](https://telemetr.io/en) - Telegram analytics suite
 - [IntelX - Telegram](https://intelx.io/tools?tab=telegram) - IntelX Telegram Search  
-- [Telepathy](https://github.com/jordanwildon/Telepathy) — Extract account info via API   
-- [Combot](https://combot.org/telegram/top/groups) — Top Telegram groups/channels  
-- [TLGrip](https://github.com/Ph055a/TLGrip) — Telegram scraper for groups/chats
+- [Telepathy](https://github.com/prose-intelligence-ltd/Telepathy-Community) — Extract account info via API   
+- [Combot](https://combot.org/top/telegram/groups) — Top Telegram groups/channels  
 - [Telegram Channels](https://tlgrm.eu/channels) - Search Telegram Channels
 - [Telemetry](https://www.telemetryapp.io/) - Telegram analytics tool
 - [Tgstat](https://tgstat.com/) - Russian-based Telegram analytics tool
@@ -95,7 +90,6 @@
 ---
 
 ### TikTok
-- [TikTok-OSINT](https://github.com/isaacjullien/TikTok-OSINT) — Extract TikTok profile data  
 - [TikTok-Scraper](https://github.com/drawrowfly/tiktok-scraper) — Download videos, scrape metadata  
 - [Urlebird](https://urlebird.com/) — View TikTok profiles without login  
 - [Exolyt](https://exolyt.com/) — TikTok analytics & monitoring (freemium)
@@ -103,20 +97,18 @@
 ---
 
 ### VKontakte (VK)
-- [VK Watch](https://vk.watch) — Search for profiles, posts, videos, and groups
-- [Bellingcat VK Scraper](https://github.com/bellingcat/vk-scraper) — Python tool to scrape profiles, photos, and groups
+- [VK Watch](https://vk.watch/ru) — Search for profiles, posts, videos, and groups
+- [Bellingcat VK Scraper](https://github.com/bellingcat/vk-url-scraper) — Python tool to scrape VK URLs
 - [VK ID Lookup](https://regvk.com/id/) — Find a VK profile by numeric ID or slug
 - [vk_api (Python)](https://github.com/python273/vk_api) — Unofficial Python library for VK API access
-- [vk-grabber](https://github.com/sashgorokhov/vk-grabber) — Bulk scraping of VK photos and posts
 - [Wayback Machine](https://web.archive.org/web/*/vk.com/*) — View archived/removed VK content
-- [OSINTCombine VK Guide](https://www.osintcombine.com/post/vk-osint) — Practical guide for VK investigations
 - [Search4Faces](https://search4faces.com) — Reverse face search across VKontakte
 - [VK History Robot](https://t.me/VKHistoryRobot) — Telegram bot to view VK profile history changes
 - [FindNameVk Bot](https://t.me/FindNameVk_bot) — Telegram bot to search for VK profiles by name
 - [Дезертир](https://t.me/deserteer) — Telegram tool for VK-related OSINT (Russian)
 - [Barkov.net](https://barkov.net/) — VK user and community search engine
 - [VK Community Search](https://vk.com/communities) — Discover VK groups and communities
-- [VK People Search](https://vk.com/people) — Find VK users by various filters
+- [VK People Search](https://vk.com/search/people) — Find VK users by various filters
 
 ---
 
@@ -133,10 +125,9 @@
 
 ### X (former Twitter)
 - [Twint](https://github.com/twintproject/twint) — Scrape Twitter without API keys  
-- [snscrape](https://github.com/JustAnotherArchivist/snscrape) — Scrape tweets, profiles, hashtags  
-- [TweetBeaver](https://tweetbeaver.com/) — Lookup tools for profiles, likes, followers  
+- [snscrape](https://github.com/JustAnotherArchivist/snscrape) — Scrape tweets, profiles, hashtags   
 - [Foller.me](https://foller.me/) — Analyze Twitter account topics & activity  
-- [BirdHunt](https://birdhunt.co/) — Historical tweet search  
+- [BirdHunt](https://birdhunt.huntintel.io/) — Historical tweet search  
 - [Twitonomy](https://www.twitonomy.com/) — Analytics on tweets, mentions, followers, lists  
 - [Bot Sentinel](https://botsentinel.com/) — Detect and analyze bot-like or inauthentic accounts  
 - [Wayback Tweets](https://waybacktweets.streamlit.app/) — Retrieve deleted or archived tweets  
@@ -163,13 +154,12 @@
 
 ### Other Platforms
 - [Flickr API](https://www.flickr.com/services/api/) — Photo metadata    
-- [Mastodon Instances](https://instances.social/) — Fediverse OSINT  
-- [Gab Trends](https://trends.gab.com/) — Gab content tracker  
+- [Mastodon Instances](https://instances.social/) — Fediverse OSINT    
 
 ---
 
 ### Social Media Monitoring & Analytics
-- [Hootsuite](https://hootsuite.com/) — Social media management and monitoring platform  
+- [Hootsuite](https://www.hootsuite.com/) — Social media management and monitoring platform  
 - [Buffer](https://buffer.com/) — Scheduling and monitoring of social media activity  
 - [Brandwatch](https://www.brandwatch.com/) — Social listening and analytics platform  
-- [Audiense](https://audiense.com/) — Audience segmentation and Twitter analytics  
+- [Audiense](https://www.audiense.com/) — Audience segmentation and Twitter analytics  
