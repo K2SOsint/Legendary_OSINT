@@ -3,9 +3,9 @@
 [← Back to Index](../README.md)
 
 ### Child Protection and Exploitation Prevention
-- [NCMEC](https://www.missingkids.org/) — US National Center for Missing and Exploited Children  
+- [NCMEC](https://www.missingkids.org/home) — US National Center for Missing and Exploited Children  
 - [Europol Trace an Object](https://www.europol.europa.eu/stopchildabuse) — Crowdsource identification of child abuse materials  
-- [NCPTF](https://www.ncptf.org/) — National Child Protection Task Force  
+- [NCPTF](https://ncptf.org/) — National Child Protection Task Force  
 - [FBI ECAP](https://www.fbi.gov/wanted/ecap) — FBI Endangered Child Alert Program  
 - [Trace Labs](https://www.tracelabs.org/) — Crowdsourced OSINT for missing persons  
 
