@@ -13,7 +13,7 @@
 - [ESA Copernicus Open Access](https://dataspace.copernicus.eu/explore-data) — Sentinel mission data access  
 - [NOAA Satellite Data](https://www.nesdis.noaa.gov/) — US environmental satellite imagery  
 - [Satellites.pro](https://satellites.pro/) — Online satellite maps viewer  
-- [Mapbox Near-Time Imagery](https://www.mapbox.com/bites/00145/#12/-34.0238819/151.0674949) — Near real-time satellite maps  
+- [Mapbox Near-Time Imagery](https://www.mapbox.com/) — Near real-time satellite maps  
 - [GIS Geography: 25 Satellite Maps](https://gisgeography.com/satellite-maps/) — Guide to alternative satellite maps  
 - [Wayback Imagery](http://livingatlas.arcgis.com/wayback/) — Historic satellite imagery archive  
 - [Maxar Discovery](https://xpress.maxar.com) — High-resolution imagery archive  
