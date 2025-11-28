@@ -19,7 +19,7 @@
 - [IMF Data](https://www.imf.org/en/Data) — International Monetary Fund data portal  
 
 ### Official Registers
-- [UN Sanctions List](https://scsanctions.un.org/) — Consolidated United Nations sanctions  
+- [UN Sanctions List](https://www.opensanctions.org/datasets/un_sc_sanctions/) — Consolidated United Nations sanctions  
 - [Interpol Red Notices](https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices) — Wanted persons database  
 - [OFAC Sanctions List](https://sanctionssearch.ofac.treas.gov/) — US Treasury sanctions search  
 - [FBI Most Wanted](https://www.fbi.gov/wanted) — FBI wanted fugitives list  
