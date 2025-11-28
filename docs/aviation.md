@@ -4,7 +4,6 @@
 
 ### Live Tracking
 - [ADS-B Exchange](https://www.adsbexchange.com/) — Largest unfiltered flight data coop  
-- [Radar.freedar.uk](https://radar.freedar.uk/VirtualRadar/desktop.html) — Virtual radar desktop view  
 - [Flightradar24](https://www.flightradar24.com/) — Real-time flight tracking  
 - [FlightAware](https://flightaware.com) — Live flight data and analytics  
 - [LiveATC](https://liveatc.net/) — Listen to live air traffic control  
@@ -19,9 +18,8 @@
 - [NATO/US Military Tracker](http://www.planeflighttracker.com/2014/04/united-states-military-aircraft-in.html) — Military aircraft tracker  
 
 ### Aircraft Databases
-- [OpenSky Aircraft DB](https://opensky-network.org/aircraft-database/) — Registered aircraft database  
+- [OpenSky Aircraft DB](https://opensky-network.org/datasets/#metadata/) — Registered aircraft database (samples) 
 - [JetPhotos](https://www.jetphotos.com/) — Aircraft spotter photos and database  
-- [OpenSky Explorer](https://opensky-network.org/network/explorer) — Live ADS-B based flight explorer  
 
 ### Extra Flight Tracking & Data
 - [ADS-B Exchange Global Radar](https://global.adsbexchange.com/VirtualRadar/desktop.html) — Unfiltered cooperative flight radar  
