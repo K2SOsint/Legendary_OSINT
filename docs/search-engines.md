@@ -48,9 +48,8 @@
 - [Baidu Advanced Search](https://www.baidu.com/gaoji/advanced.html) — Baidu operator guide  
 
 ### Specialized Search Engines
-- [Social Mention](https://socialmention.com) — Real-time social media search  
-- [Social Searcher](https://www.social-searcher.com/google-social-search/) — Monitor mentions across social media  
-- [Google Social Search](https://www.social-searcher.com/google-social-search) — Google-powered social media search  
+- [Social Mention](https://www.socialmention.com/) — Real-time social media search  
+- [Google Social Search](https://www.social-searcher.com/google-social-search/) — Google-powered social media search  
 - [Carrot2](https://search.carrot2.org/) — Clustered search results visualization  
 - [DocJax](https://docjax.com) — Document search engine  
 - [PublicWWW](https://publicwww.com) — Search source code and analytics IDs  
