@@ -10,12 +10,12 @@
 
 ### Email Analysis
 - [MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx) — Email header analyzer and MX tools  
-- [mailtester.com](http://mailtester.com/) — Check if an email address is valid and deliverable  
-- [VerifyEmail](https://tools.verifyemailaddress.io/) — Verify the validity of an email address  
+- [mailtester.com](https://mailtester.com/en/) — Check if an email address is valid and deliverable  
+- [VerifyEmail](https://tools.emailhippo.com/) — Verify the validity of an email address  
 
 ### URL and Phishing Kit Analysis
 - [urlscan.io](https://urlscan.io/) — Sandbox and visualize web requests from a URL  
-- [URLquery](http://urlquery.net) — Analyze suspicious URLs and detect malicious behavior  
+- [URLquery](https://urlquery.net/) — Analyze suspicious URLs and detect malicious behavior  
 - [PhishTank](https://phishtank.org/) — Community-driven phishing URL database  
 - [OpenPhish](https://openphish.com/) — Automated phishing feed  
 - [StalkPhish](https://github.com/t4d/StalkPhish) — Identify phishing kits and reused infrastructures  
