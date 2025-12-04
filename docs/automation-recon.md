@@ -12,7 +12,14 @@
 ### Browser Extensions and Utilities
 - [Mitaka](https://github.com/ninoseki/mitaka) — IOC investigation from the browser  
 - [Shodan Plugin](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) — Shodan search extension  
-- [Wappalyzer Extension](https://www.wappalyzer.com/apps/) — Detect web technologies directly in browser  
+- [Wappalyzer Extension](https://www.wappalyzer.com/apps/) — Detect web technologies directly in browser
+
+### Emulators Android
+- [Amiduos](https://android-emulators.com/amiduos) - Android Emulator for Windows
+- [Android x86](https://www.linuxvmimages.com/images/android-x86) - Repo of Android VDI-images
+- [Bluestacks](https://bluestacks.com) - Android App player for Windows & Mac
+- [BigNox](https://bignox.com) - Another Android Emulator, lots of options
+- [Genymotion](https://genymotion.com) - Cloud bases Android devices
 
 ### Metadata and Document Analysis
 - [Metagoofil](https://github.com/laramies/metagoofil) — Metadata extraction from public documents  
