@@ -6,7 +6,8 @@
 - [Have I Been Pwned](https://haveibeenpwned.com/) — Search if an email appears in known data breaches  
 - [DeHashed](https://dehashed.com/) — Breach and credential search  
 - [EmailRep.io](https://emailrep.io/) — Email reputation and risk scoring  
-- [Hunter.io](https://hunter.io/) — Discover corporate email patterns and addresses  
+- [Hunter.io](https://hunter.io/) — Discover corporate email patterns and addresses
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if an email address was compromised in an Infostealer malware attack  
 
 ### Email Analysis
 - [MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx) — Email header analyzer and MX tools  
