@@ -21,7 +21,8 @@
 - [IPQS](https://www.ipqualityscore.com/) - Toolbox for domain/IP intelligence 
 - [WhoisRequest](http://whoisrequest.com/history/) — Domain ownership history lookup    
 - [SecurityTrails](https://securitytrails.com/) — DNS and infrastructure data  
-- [Robtex](https://robtex.com/) — Infrastructure graph explorer  
+- [Robtex](https://robtex.com/) — Infrastructure graph explorer
+- [Web-Check](https://web-check.xyz/) - Website analysis tool  
 
 ### Certificates and DNS 
 - [crt.sh](https://crt.sh/) — Certificate Transparency logs  
