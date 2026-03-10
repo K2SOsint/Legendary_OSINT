@@ -65,7 +65,8 @@
 ### Reddit
 - [Reddit Insight](https://reddit-insight.com/) — Analyze profiles & posting activity  
 - [ReSavr](https://www.resavr.com/) — Recover deleted comments  
-- [Redective](https://redective.com/) - The Reddit Search Detective  
+- [Redective](https://redective.com/) - The Reddit Search Detective
+- [SnooSnoop](https://snoosnoop.com/) - Analyze Reddit user  
 
 ---
 
