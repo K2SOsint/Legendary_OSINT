@@ -51,7 +51,8 @@
 ### Domain Age and History
 - [CarbonDate](https://carbondate.cs.odu.edu/) — Estimate when a domain was created  
 - [Whois EasyCounter](https://whois.easycounter.com/) — Historical Whois and ownership details  
-- [WhyNoHTTPS](https://whynohttps.com/) — Database of sites without HTTPS  
+- [WhyNoHTTPS](https://whynohttps.com/) — Database of sites without HTTPS
+- [URL Dater](https://github.com/nixintel/urldater) - Nifty tool to check age of website  
 
 ### Website Relationship & Similarity
 - [SimilarSites](https://www.similarsites.com/) — Find websites similar to a given domain  
