@@ -58,6 +58,7 @@
 - [Hunter.io](https://hunter.io/) — Corporate email discovery  
 - [PhantomBuster](https://phantombuster.com/) — Automate LinkedIn scraping (freemium)  
 - [SalesQL](https://salesql.com/) — LinkedIn lead & contact extraction
+- [LinkdTime](https://github.com/Lucksi/LinkdTime) - LinkedIn Timeline Generator
 
 ---
 
