@@ -23,6 +23,9 @@
 - [NoHat](https://www.nohat.cc/) — OSINT and cybersecurity research blog  
 - [SANS OSINT Blog](https://www.sans.org/blog/osint/) — Professional OSINT articles
 
+### Other Resources
+- [OSINTrack](https://osintrack.com/) - Another resource directory, but with fancy graphics!
+
 ### Podcasts CTI
 - [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) — Cybersecurity news and OSINT-adjacent podcast
 - [Microsoft Threat Intelligence Podcast](https://thecyberwire.com/podcasts/microsoft-threat-intelligence) - Podcast by Microsoft about threat intelligence, APTs, malware, and actor tradecraft
