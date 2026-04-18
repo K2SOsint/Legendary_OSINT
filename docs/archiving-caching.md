@@ -20,3 +20,9 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Download and archive YouTube videos  
 - [archivebox](https://github.com/ArchiveBox/ArchiveBox) — Self-hosted webpage archiving solution  
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) — Browser extension to save complete pages as a single HTML
+
+### Website Change Monitoring
+- [Google Alerts](https://www.google.com/alerts) — Free keyword-based email alerts for web mentions and changes  
+- [VisualPing](https://visualping.io/) — Monitor pages for visual changes and receive alerts (freemium)  
+- [Snaplert](https://snaplert.com/) — Website change monitoring with AI-powered visual diffs, element-level zone picker, and before/after screenshot alerts (free beta)  
+- [Changedetection.io](https://changedetection.io/) — Self-hosted webpage change detection with JSON/XPath support  
