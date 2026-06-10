@@ -15,6 +15,7 @@
 - [Eurid](https://eurid.eu/en/) — .EU domain registry  
 
 ### Domain Intelligence
+- [OSINT Projects](https://osintprojects.com) — Free WHOIS/RDAP, DNS, IP geolocation, SSL & subdomain recon toolkit (no signup)  
 - [DomainTools](https://domaintools.com) — Domain research platform  
 - [DomainIQ](https://www.domainiq.com/) — Domain intelligence and history  
 - [Completedns](https://completedns.com/dns-history/) — DNS history database
