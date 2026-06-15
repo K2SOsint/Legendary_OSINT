@@ -134,6 +134,7 @@
 - [Bot Sentinel](https://botsentinel.com/) — Detect and analyze bot-like or inauthentic accounts  
 - [Wayback Tweets](https://waybacktweets.streamlit.app/) — Retrieve deleted or archived tweets  
 - [Nitter](https://nitter.net/) — Alternative Twitter front-end, useful for OSINT scraping  
+- [Xquik](https://docs.xquik.com) - X (Twitter) OSINT platform for tweet search, user lookup, follower exports, media download, monitoring, webhooks, and MCP access.
   
 ---
 
