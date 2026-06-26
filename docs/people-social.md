@@ -151,6 +151,7 @@
 - [IDcrawl](https://www.idcrawl.com/) — Meta search for people across multiple social networks  
 - [PeekYou](https://www.peekyou.com/) — Publicly available people search  
 - [Pipl](https://pipl.com/) — Commercial people search & enrichment
+- [IntelBase](https://intelbase.is/) — People search engine with social media and public records
 
 ---
 
