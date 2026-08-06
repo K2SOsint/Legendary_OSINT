@@ -16,6 +16,7 @@
 ### URL and Phishing Kit Analysis
 - [urlscan.io](https://urlscan.io/) — Sandbox and visualize web requests from a URL  
 - [URLquery](https://urlquery.net/) — Analyze suspicious URLs and detect malicious behavior  
+- [ScanMalware](https://scanmalware.com/) — Renders submitted URLs in a sandboxed browser and reports phishing, malware, network requests, and screenshots  
 - [PhishTank](https://phishtank.org/) — Community-driven phishing URL database  
 - [OpenPhish](https://openphish.com/) — Automated phishing feed  
 - [StalkPhish](https://github.com/t4d/StalkPhish) — Identify phishing kits and reused infrastructures  
