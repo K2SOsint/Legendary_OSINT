@@ -23,7 +23,8 @@
 
 ### Leak Sites & Forums
 - [IntelligenceX](https://intelx.io) — Leaks & darknet indexing  
-- [OCCRP Aleph](https://data.occrp.org) — Public leaks & investigations  
+- [OCCRP Aleph](https://data.occrp.org) — Public leaks & investigations
+- [BreachVIP](https://breach.vip) - Leaks & Database breaches
 
 ### General Dark Web Search & Tools
   
