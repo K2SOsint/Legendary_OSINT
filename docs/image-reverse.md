@@ -13,6 +13,7 @@
 ### Metadata Extraction
 - [ExifTool](https://exiftool.org/) — Extract EXIF and metadata from images  
 - [Jeffrey’s Exif Viewer](http://exif.regex.info/exif.cgi) — Online EXIF metadata viewer   
+- [MetadataRemover.ai](https://metadataremover.ai/) — Inspect and verify supported image metadata locally in the browser without uploading files or creating an account
 
 ### Image Forensics
 - [Forensically](https://29a.ch/photo-forensics/) — Online forensic suite for images  
