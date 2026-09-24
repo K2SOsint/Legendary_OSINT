@@ -151,6 +151,7 @@
 - [IDcrawl](https://www.idcrawl.com/) — Meta search for people across multiple social networks  
 - [PeekYou](https://www.peekyou.com/) — Publicly available people search  
 - [Pipl](https://pipl.com/) — Commercial people search & enrichment
+- [Jev Social](https://github.com/socai-io/jev-social) — Uses Jev and the local socai CLI for read-only Instagram, TikTok, and LinkedIn research in an existing browser, returning source-linked evidence reports
 
 ---
 
