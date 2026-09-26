@@ -6,26 +6,25 @@
 - [ADS-B Exchange](https://www.adsbexchange.com/) — Largest unfiltered flight data coop  
 - [Flightradar24](https://www.flightradar24.com/) — Real-time flight tracking  
 - [FlightAware](https://flightaware.com) — Live flight data and analytics  
-- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) — Public map for restricted airspace, vessels, and incidents  
-- [LiveATC](https://liveatc.net/) — Listen to live air traffic control  
+- [LiveATC](https://liveatc.net/) — Listen to live air traffic control
+- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) — Public map for restricted airspace, vessels, and incidents   
 
 ### Historical Flight Data
-- [ADS-B Exchange Historical](https://flight-data.adsbexchange.com) — Archived flight data  
-- [GVA Dictator Alert](https://github.com/lefranz/geneva-dictators) — Track dictator aircraft in Geneva  
+- [ADS-B Exchange Sample Data](https://www.adsbexchange.com/data-products/sample-data/) — Archived and sample flight data downloads  
+- [Dictator Alert](https://dictatoralert.org) — Tracks aircraft registered to or used by authoritarian regimes; has fed real money-laundering investigations (successor project to the original GVA Dictator Alert code)  
 - [Planespotters](https://www.planespotters.net/) — Civil aviation spotting and aircraft registry  
 - [Airfighters](https://www.airfighters.com/) — Military aircraft database with photos  
 - [LocalizaTodo](https://www.localizatodo.com/html5/) — Real-time vessel and aircraft tracking  
 - [FlightConnections](https://www.flightconnections.com) — Interactive airline route maps  
-- [NATO/US Military Tracker](http://www.planeflighttracker.com/2014/04/united-states-military-aircraft-in.html) — Military aircraft tracker  
+- [NATO/US Military Tracker](http://www.planeflighttracker.com/2014/04/united-states-military-aircraft-in.html) — Reference list of US military aircraft ICAO codes for use with live trackers  
 
 ### Aircraft Databases
 - [OpenSky Aircraft DB](https://opensky-network.org/datasets/#metadata/) — Registered aircraft database (samples) 
 - [JetPhotos](https://www.jetphotos.com/) — Aircraft spotter photos and database  
 
 ### Extra Flight Tracking & Data
-- [ADS-B Exchange Global Radar](https://global.adsbexchange.com/VirtualRadar/desktop.html) — Unfiltered cooperative flight radar  
-- [RadarBox24](https://www.radarbox24.com/) — Real-time flight tracking and analytics  
-- [Casper Flights](https://casperflights.com) — Historical and live flight tracking  
+- [ADS-B Exchange Global Radar](https://globe.adsbexchange.com/) — Unfiltered cooperative flight radar  
+- [AirNav Radar (formerly RadarBox24)](https://www.airnavradar.com/) — Real-time flight tracking and analytics  
 - [FlightStats](https://www.flightstats.com) — Global flight status and airport information  
 - [FlightView](https://www.flightview.com) — Flight tracking and airport delays  
 - [FlightWise](https://flightwise.com) — Flight tracking and planning service  
@@ -35,7 +34,7 @@
 ### Extra Aircraft & Aviation Databases
 - [Airframes.org](https://www.airframes.org) — Aircraft registration and ownership info  
 - [AirlineCodes](https://www.airlinecodes.info/) — Airline and airport codes reference    
-- [Airliners.net](https://www.airliners.net) — Aviation photo archive and community  
+- [Airliners.net](https://www.airliners.net) — Aviation photo archive and community (site itself is active; automated tools may hit a 402 anti-bot response)  
 - [AirNav Airports](https://www.airnav.com/airports) — Detailed information on airports  
 - [Aviation Edge Airport Database](https://aviation-edge.com/airport-database-api) — API for global airport and airline data  
 - [Aviation StackExchange](https://aviation.stackexchange.com) — Q&A community for aviation  
@@ -44,7 +43,5 @@
 - [Wikipedia Aircraft Registration Prefixes](https://en.wikipedia.org/wiki/List_of_aircraft_registration_prefixes) — List of aircraft registration country prefixes  
 
 ### Cargo & Drone Research
-- [CargoTracking Utopiax](https://cargotracking.utopiax.org) — Cargo and flight tracking  
-- [Drone Center Database](https://dronecenter.bard.edu/the-drone-database) — Bard Center drone database  
-- [CNAS Drone Project](https://drones.cnas.org/drones) — Drone wars and policy project  
+- [CNAS Drone Project](https://drones.cnas.org/drones) — Drone wars and policy project; successor to the Bard Center's original drone database  
 - [UAS Vision](https://www.uasvision.com/about) — News and resources on unmanned aerial systems  
