@@ -30,3 +30,6 @@
 - [BuzzSumo](https://buzzsumo.com/) — Content monitoring and social trend analysis (freemium)  
 - [Talkwalker Alerts](https://www.talkwalker.com/alerts) — Google Alerts alternative for media and web mentions  
 - [Mention](https://mention.com/en/) — Monitor mentions across news and social media (freemium)
+
+### Conflict & Infrastructure Monitoring
+- [World War Watcher](https://worldwarwatcher.com/) — Live OSINT dashboard monitoring the Iran-US war's impact on cloud infrastructure, submarine cables, oil markets, and global connectivity. 1,893 sources across 6 credibility tiers, Ma'at Protocol editorial verification, 75 daily dispatches, open data API
