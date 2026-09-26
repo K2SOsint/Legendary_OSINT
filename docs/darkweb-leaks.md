@@ -23,7 +23,11 @@
 
 ### Leak Sites & Forums
 - [IntelligenceX](https://intelx.io) — Leaks & darknet indexing  
-- [OCCRP Aleph](https://data.occrp.org) — Public leaks & investigations  
+- [OCCRP Aleph](https://aleph.occrp.org) — Public leaks & investigations  
+- [LeakCheck](https://leakcheck.io/) — Search across 10+ billion leaked records from 1,300+ data breaches by email, username, phone, or domain  
+
+### Ransomware Leak Site Tracking
+- [RansomLook](https://www.ransomlook.io/) — Open-source tracking of ransomware group leak sites, claims, and threat actors, with a public API  
 
 ### General Dark Web Search & Tools
   
@@ -31,3 +35,5 @@
 - [Napalm FTP](https://www.searchftps.net) — Search open FTP servers  
 - [Archive.org](https://archive.org) — Historical archiving (sometimes mirrors darknet material)  
 - [Google CSE Utopia](https://start.me/p/EL84Km/cse-utopia) — Custom Google engines for onion search  
+- [OnionScan](https://github.com/s-rah/onionscan) — Scans Tor hidden services for OPSEC failures and configuration leaks  
+- [Tor Metrics](https://metrics.torproject.org/) — Official Tor Project statistics and data on the Tor network  
