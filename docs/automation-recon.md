@@ -5,6 +5,7 @@
 ### Recon Frameworks
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) — Automated reconnaissance with 200+ modules  
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) — Open-source recon framework  
+- [OWASP Amass](https://github.com/owasp-amass/amass) — In-depth attack surface mapping and DNS/subdomain asset discovery  
 - [Maltego](https://www.maltego.com/) — Link analysis and visualization platform   
 - [theHarvester](https://github.com/laramies/theHarvester) — Harvest emails, hosts, subdomains  
 - [datasploit](https://github.com/DataSploit/datasploit) — OSINT automation toolset  
