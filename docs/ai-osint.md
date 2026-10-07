@@ -30,4 +30,4 @@
 - [Hugging Face Spaces](https://huggingface.co/spaces) — Community-driven AI models for NLP, vision, and OSINT tasks
 
 ### AI OSINT Tooling
--[Nexus OSINT](https://www.nexus-osint.ai/) — Paid agentic OSINT platform for company, sanctions, PEP and crypto research with source-linked findings.
+- [Nexus OSINT](https://www.nexus-osint.ai/) — Paid agentic OSINT platform for company, sanctions, PEP and crypto research with source-linked findings.
