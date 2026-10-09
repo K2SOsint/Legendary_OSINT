@@ -3,7 +3,7 @@
 Thanks for your interest in contributing! 🎉  
 This project is a curated knowledge base of OSINT tools and resources. To keep it consistent and useful for everyone, please follow these guidelines.
 
-***If you are a commercial organization that wants to be added for community purposes, please contact me first, either by opening an issue or sending me a DM on LinkedIn***
+***If you are a commercial organization that wants to be added for community purposes, please contact me first, either by opening an issue or sending me a DM on LinkedIn. Please do not contact the company I work for, since this is a personal side project.***
 
 ---
 
