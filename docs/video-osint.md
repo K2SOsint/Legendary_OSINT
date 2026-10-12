@@ -11,6 +11,7 @@
 
 ### Video Search
 - [Filmot](https://filmot.com/) — Search within YouTube subtitles, captions, and transcripts across 1.7+ billion indexed videos  
+- [SauceMatch](https://saucematch.com/) — Reverse video search over an index of adult video: finds the source video of a screenshot, GIF or clip (18+)  
 
 ### Video Download and Archiving
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Download and archive YouTube and other videos  
