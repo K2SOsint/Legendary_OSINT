@@ -20,7 +20,8 @@
 - [Cruising Earth Ship Tracker](https://www.cruisingearth.com/cruise-ship-tracker/) — Cruise ship tracking tool (formerly Cruisin.me)  
 
 ### Sanctions, Shadow Fleet & Dark Fleet
-- [FleetLeaks](https://fleetleaks.com/) — Free, daily-updated database of Russia-related sanctioned vessels from the US, EU, UK, Canada, Australia, and New Zealand, combined with live AIS tracking  
+- [FleetLeaks](https://fleetleaks.com/) — Free, daily-updated database of Russia-related sanctioned vessels from the US, EU, UK, Canada, Australia, and New Zealand, combined with live AIS tracking
+- [Hullcipher](https://hullcipher.com/) - Sanctioned ships, with each list's name and numbers beside what the ship broadcasts on AIS  
 - [OpenSanctions Maritime Data](https://www.opensanctions.org/docs/maritime/) — Ships modelled as screenable entities (IMO number, MMSI, flag) linked to the companies that own, operate, and manage them  
 - [OCCRP: How to Investigate Shadow Fleets](https://www.occrp.org/en/feature/practical-osint-for-investigating-shadow-fleets) — Practical OSINT guide (February 2026) on tracing a vessel's flag, ownership, and sanctions exposure  
 - [TankerTrackers](https://www.tankertrackers.com/) — Independent maritime intelligence on crude oil shipments and storage, specializing in dark fleet tankers (commercial)  
