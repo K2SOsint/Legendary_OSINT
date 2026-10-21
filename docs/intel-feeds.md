@@ -13,6 +13,7 @@
 - [AlienVault OTX (LevelBlue)](https://otx.alienvault.com/) — Open threat exchange community  
 - [TweetFeed](https://tweetfeed.live/) — IOCs shared by the infosec community on X/Twitter, updated every 15 minutes  
 - [Pulsedive](https://pulsedive.com/) — Free platform to search, scan, and enrich IOCs  
+- [ICHI — Internet Cyber Health Index](https://ichi.global/) — Free daily barometer of global internet cyber health, aggregating signals from 50+ public threat feeds, vulnerability sources, and network monitoring services  
 
 ### Commercial and Specialized Feeds
 - [Spamhaus](https://www.spamhaus.org/) — Blocklists for IPs, domains, and spam sources  
