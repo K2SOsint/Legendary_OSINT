@@ -12,6 +12,9 @@
 - [SauceNAO](https://saucenao.com/) — Reverse image search across art, anime, and illustration databases  
 - [Karma Decay](https://karmadecay.com/) — Reverse search for Reddit images (reported to be unreliable since Reddit's API restrictions)  
 
+### Browser Extensions
+- [Reverse Image Search Anywhere](https://reverseimage.app/) — Free, open-source extension for searching Google Lens, Yandex, Bing, and TinEye from web images, including images without a usable source URL
+
 ### Metadata Extraction
 - [ExifTool](https://exiftool.org/) — Extract, read, and edit metadata in images, audio, and video (main site is currently a placeholder because its host disabled it; documentation and downloads are on the [SourceForge mirror](https://exiftool.sourceforge.net/))  
 - [Metadata2Go](https://www.metadata2go.com/) — Online EXIF/metadata viewer for images, video, audio, and documents  
