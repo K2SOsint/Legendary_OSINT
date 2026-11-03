@@ -10,7 +10,8 @@
 - [Yandex Images](https://yandex.com/images/) — Powerful reverse search, especially for faces and objects  
 - [TinEye](https://tineye.com/) — Reverse image search with focus on older content  
 - [SauceNAO](https://saucenao.com/) — Reverse image search across art, anime, and illustration databases  
-- [Karma Decay](https://karmadecay.com/) — Reverse search for Reddit images (reported to be unreliable since Reddit's API restrictions)  
+- [Karma Decay](https://karmadecay.com/) — Reverse search for Reddit images (reported to be unreliable since Reddit's API restrictions)
+- [Archivarix Retrace](https://retrace.archivarix.net/) — Reverse image search that traces a picture's earlier copies, first-seen date and likely location, with a source link for each finding  
 
 ### Metadata Extraction
 - [ExifTool](https://exiftool.org/) — Extract, read, and edit metadata in images, audio, and video (main site is currently a placeholder because its host disabled it; documentation and downloads are on the [SourceForge mirror](https://exiftool.sourceforge.net/))  
