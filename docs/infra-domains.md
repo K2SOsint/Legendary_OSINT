@@ -26,7 +26,8 @@
 - [Robtex](https://robtex.com/) — Infrastructure graph explorer  
 - [Web-Check](https://web-check.xyz/) — All-in-one website analysis tool  
 - [ICANN CZDS](https://czds.icann.org/) — Request access to zone files of participating gTLDs  
-- [Tranco](https://tranco-list.eu/) — Research-oriented ranking of the most popular domains, hardened against manipulation  
+- [Tranco](https://tranco-list.eu/) — Research-oriented ranking of the most popular domains, hardened against manipulation
+- [Profundis](https://profundis.io) - Find subdomains and follow connections between websites through shared IPs, certificates and tracking IDs. The free web plan includes up to 300 subdomains per lookup using monthly credits.  
 
 ### Certificates and DNS
 - [crt.sh](https://crt.sh/) — Certificate Transparency logs  
