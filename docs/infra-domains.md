@@ -29,6 +29,8 @@
 - [Tranco](https://tranco-list.eu/) — Research-oriented ranking of the most popular domains, hardened against manipulation
 - [Profundis](https://profundis.io) - Find subdomains and follow connections between websites through shared IPs, certificates and tracking IDs. The free web plan includes up to 300 subdomains per lookup using monthly credits.  
 
+- [BrandShield](https://brand.shipbastion.com/) — Free read-only IANA RDAP domain availability, 28-variant typosquatting lookalike, USPTO trademark, and handle lookup  
+
 ### Certificates and DNS
 - [crt.sh](https://crt.sh/) — Certificate Transparency logs  
 - [Cert Spotter](https://sslmate.com/certspotter/) — Certificate Transparency monitoring from SSLMate (commercial, 30-day trial)  
